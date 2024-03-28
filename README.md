@@ -20,7 +20,7 @@ Constituer une liste d'outils, repos, ou d'idées d'apps dans le but d'aider les
 | [Visionneur de border-radius](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Border-Radius-Previewer.md) | Aperçu de la façon dont les valeurs de border-radius CSS3 affectent un élément |
 | [Calculatrice](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calculator-App.md)                         | Calculatrice                                  |
 | [Lumières de Noël](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Christmas-Lights-App.md)               | Simulez une chaîne de lumières de Noël        |
-| Arrive plus tards                                                                                                                  | ...                                           |
+| Le reste arrive plus tards                                                                                                                  | ...                                           |
 
 ### [Niveau 2 - Projets de niveau intermédière](#niveau-2)
 
