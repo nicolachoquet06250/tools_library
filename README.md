@@ -3,7 +3,7 @@
 > Constituer une liste d'outils, repos, ou d'idées d'apps dans le but d'aider les développeurs du mois expérimenté au plus aguerri
 
 ## Contributeurs
-[![Moi](./assets/github-personal-profile-pic.jpeg)](https://github.com/nicolachoquet06250/)
+<a href="https://github.com/nicolachoquet06250/"><img width="50px" height="50px" style="border-radius: 50px" src="./assets/github-personal-profile-pic.jpeg" alt="moi"></a>
 
 ## App Ideas
 
