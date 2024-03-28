@@ -4,7 +4,7 @@ Constituer une liste d'outils, repos, ou d'idées d'apps dans le but d'aider les
 
 ## App Ideas
 
-[florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
+[florinpop17/app-ideas](https://github.com/florinpop17/app-ideas/)
 
 | Niveau                       | Profile développeur                                                                                                                                                |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -20,6 +20,19 @@ Constituer une liste d'outils, repos, ou d'idées d'apps dans le but d'aider les
 | [Visionneur de border-radius](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Border-Radius-Previewer.md) | Aperçu de la façon dont les valeurs de border-radius CSS3 affectent un élément |
 | [Calculatrice](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calculator-App.md)                         | Calculatrice                                  |
 | [Lumières de Noël](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Christmas-Lights-App.md)               | Simulez une chaîne de lumières de Noël        |
+
+### [Niveau 2 - Projets de niveau intermédière](#niveau-2)
+
+| Nom de projet                                                                                                                      | Courte déscription                            |
+| ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| Arrive plus tards                                                                                                                  | -                                             |
+
+### [Niveau 3 - Projets de niveau avancé](#niveau-3)
+
+| Nom de projet                                                                                                                      | Courte déscription                            |
+| ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| Arrive plus tards                                                                                                                  | -                                             |
+
  
 > PS : C'est publique et ouvert à tous donc n'hésitez pas à faire une MR si vous avez d'autre sites de veille, outils, idées d'app à dev pour les devs juniors ou juste pour apprendre un langage, liens de tutos d'outils à dev sois même dans différents languages, ou même des liens vers des challanges de prog peux importe le langage ça interessera toujours des personnes si bien évidement ils ne sont pas déja présent ici 😉
 
