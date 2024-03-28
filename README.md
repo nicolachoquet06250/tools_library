@@ -23,7 +23,15 @@ Constitution d'une liste d'outils, répos, d'idées d'apps, challanges ou tout a
 | [Visionneur de border-radius](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Border-Radius-Previewer.md) | Aperçu de la façon dont les valeurs de border-radius CSS3 affectent un élément |
 | [Calculatrice](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calculator-App.md)                         | Calculatrice                                  |
 | [Lumières de Noël](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Christmas-Lights-App.md)               | Simulez une chaîne de lumières de Noël        |
-| Le reste arrive plus tards                                                                                                                  | ...                                           |
+| [Application Cause Effet](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Christmas-Lights-App.md)        | Cliquez sur l'élément de la liste pour afficher les détails de l'élément        |
+| [Cycle de couleurs](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Color-Cycle-App.md)                   | Faire défiler une valeur de couleur à travers des changements incrémentiels        |
+| [Compte à rebours](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Countdown-Timer-App.md)                | Compte à rebours d'événement                  |
+| [Application CSV2JSON](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/CSV2JSON-App.md)                   | Convertisseur CSV en JSON                     |
+| [Dollars en Cents](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Dollars-To-Cents-App.md)               | Convertir des dollars en centimes             |
+| [Variables CSS dynamiques](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Dynamic-CSSVar-app.md)         | Modifier dynamiquement les paramètres des variables CSS |
+| [Première application de base de données](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/First-DB-App.md) | Votre première application de base de données ! |
+| [Retourner l'image](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Flip-Image-App.md)                    | Changer l'orientation des images sur deux axes |
+| Le reste arrive plus tards                                                                                                         | ...                                           |
 
 ### [Niveau 2 - Projets de niveau intermédière](#niveau-2)
 
