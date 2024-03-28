@@ -48,4 +48,6 @@
 - https://github.com/akondas/build-your-own-x-in-php
 - https://tsch.js.org/
   - https://github.com/type-challenges/type-challenges
-- https://www.morling.dev/blog/one-billion-row-challenge
+- https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0
+  - https://github.com/gunnarmorling/1brc?tab=readme-ov-file
+  - https://www.morling.dev/blog/one-billion-row-challenge
