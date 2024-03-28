@@ -1,6 +1,6 @@
 # Tools Library
 
-> Constituer une liste d'outils, repos, ou d'idées d'apps dans le but d'aider les développeurs du mois expérimenté au plus aguerri
+> Constitution d'une liste d'outils, répos, d'idées d'apps, challanges ou tout autre ressource pour s'améliorer en programmation peux importe son niveau
 
 ## Contributeurs
 <a href="https://github.com/nicolachoquet06250/"><img width="50px" height="50px" style="border-radius: 50px" src="./assets/github-personal-profile-pic.jpeg" alt="moi"></a>
