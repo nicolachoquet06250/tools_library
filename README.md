@@ -1,6 +1,9 @@
 # Tools Library
 
-Constituer une liste d'outils, repos, ou d'idées d'apps dans le but d'aider les développeurs du mois expérimenté au plus aguerri
+> Constituer une liste d'outils, repos, ou d'idées d'apps dans le but d'aider les développeurs du mois expérimenté au plus aguerri
+
+## Contributeurs
+[![Moi](./assets/github-personal-profile-pic.jpeg)](https://github.com/nicolachoquet06250/)
 
 ## App Ideas
 
