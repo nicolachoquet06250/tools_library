@@ -31,3 +31,4 @@ Constituer une liste d'outils, repos, ou d'idées d'apps dans le but d'aider les
 - https://github.com/akondas/build-your-own-x-in-php
 - https://tsch.js.org/
   - https://github.com/type-challenges/type-challenges
+- https://www.morling.dev/blog/one-billion-row-challenge
