@@ -20,9 +20,10 @@ Constituer une liste d'outils, repos, ou d'idées d'apps dans le but d'aider les
 | [Visionneur de border-radius](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Border-Radius-Previewer.md) | Aperçu de la façon dont les valeurs de border-radius CSS3 affectent un élément |
 | [Calculatrice](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calculator-App.md)                         | Calculatrice                                  |
 | [Lumières de Noël](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Christmas-Lights-App.md)               | Simulez une chaîne de lumières de Noël        |
+ 
+> PS : C'est publique et ouvert à tous donc n'hésitez pas à faire une MR si vous avez d'autre sites de veille, outils, idées d'app à dev pour les devs juniors ou juste pour apprendre un langage, liens de tutos d'outils à dev sois même dans différents languages, ou même des liens vers des challanges de prog peux importe le langage ça interessera toujours des personnes si bien évidement ils ne sont pas déja présent ici 😉
 
-
-## Autres liens
+## Autres liens prévus à rajouter
 - https://github.com/tastejs/awesome-app-ideas
 - https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file
 - https://github.com/osynavets/build-your-own-x-in-rust
@@ -30,5 +31,3 @@ Constituer une liste d'outils, repos, ou d'idées d'apps dans le but d'aider les
 - https://github.com/akondas/build-your-own-x-in-php
 - https://tsch.js.org/
   - https://github.com/type-challenges/type-challenges
- 
-> PS : C'est publique et ouvert à tous donc n'hésitez pas à faire une MR si vous avez d'autre sites de veille, outils, idées d'app à dev pour les devs juniors ou juste pour apprendre un langage, liens de tutos d'outils à dev sois même dans différents languages, ou même des liens vers des challanges de prog peux importe le langage ça interessera toujours des personnes si bien évidement ils ne sont pas déja présent ici 😉
