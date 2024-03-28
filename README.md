@@ -25,13 +25,13 @@ Constituer une liste d'outils, repos, ou d'idées d'apps dans le but d'aider les
 
 | Nom de projet                                                                                                                      | Courte déscription                            |
 | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| Arrive plus tards                                                                                                                  | -                                             |
+| Arrive plus tards                                                                                                                  | ...                                           |
 
 ### [Niveau 3 - Projets de niveau avancé](#niveau-3)
 
 | Nom de projet                                                                                                                      | Courte déscription                            |
 | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| Arrive plus tards                                                                                                                  | -                                             |
+| Arrive plus tards                                                                                                                  | ...                                           |
 
  
 > PS : C'est publique et ouvert à tous donc n'hésitez pas à faire une MR si vous avez d'autre sites de veille, outils, idées d'app à dev pour les devs juniors ou juste pour apprendre un langage, liens de tutos d'outils à dev sois même dans différents languages, ou même des liens vers des challanges de prog peux importe le langage ça interessera toujours des personnes si bien évidement ils ne sont pas déja présent ici 😉
