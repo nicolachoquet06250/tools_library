@@ -8,7 +8,7 @@ Constitution d'une liste d'outils, répos, d'idées d'apps, challanges ou tout a
 ## [App Ideas (florinpop17/app-ideas)](https://github.com/florinpop17/app-ideas/)
 
 | Niveau                       | Profile développeur                                                                                                                                                |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ------------------- | ------------------------------------------------------------------------------------------------------------ |
 | <span id="niveau-1">1</span> | Développeurs aux premiers stades de leur parcours d’apprentissage. Ceux qui se concentrent généralement sur la création d’applications destinées aux utilisateurs. |
 | <span id="niveau-2">2</span> | Développeurs à un stade intermédiaire d’apprentissage et d’expérience. Ils sont à l’aise avec l’UI/UX, utilisent des outils de développement et créent des applications qui utilisent les services API. |
 | <span id="niveau-3">3</span> | Développeurs qui possèdent tout ce qui précède et apprennent des techniques plus avancées telles que la mise en œuvre d'applications backend et de services de base de données. |
@@ -22,7 +22,7 @@ Constitution d'une liste d'outils, répos, d'idées d'apps, challanges ou tout a
 <!-- [...document.querySelector('.markdown-heading + table:nth-of-type(2) tbody').querySelectorAll('tr')].map(e => `| [${e.querySelector('a').innerText}](${window.location.href.replace('github-com.translate.goog', 'github.com').replace('/?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=fr', '')}${e.querySelector('a').getAttribute('href').replace('/florinpop17/app-ideas', '')}) | ${e.querySelectorAll('td')[1].innerText} |`).join("\n") -->
 
 | Nom de projet                                                                                                                      | Courte déscription                            |
-| ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| --------------------------------------------------------------------------------------- | ------------------------------ |
 | [Bin2Dec](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md) | Convertisseur de nombres binaires en décimaux |
 | [Aperçu du rayon de bordure](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Border-Radius-Previewer.md) | Aperçu de la façon dont les valeurs de rayon de bordure CSS3 affectent un élément |
 | [Calculatrice](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calculator-App.md) | Calculatrice |
@@ -62,7 +62,7 @@ Constitution d'une liste d'outils, répos, d'idées d'apps, challanges ou tout a
 ### [Niveau 2 - Projets de niveau intermédière](#niveau-2)
 
 | Nom de projet                                                                                                                      | Courte déscription                            |
-| ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| --------------------------------------------------------------------------------------- | ------------------------------ |
 | [Masques de bits](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Bit-Masks-App.md) | Utilisation de masques de bits pour les conditions |
 | [Application de recherche de livres](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Book-Finder-App.md) | Rechercher des livres selon plusieurs critères |
 | [Calculatrice CLI](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Calculator-CLI.md) | Créez une calculatrice de base cli. |
@@ -101,7 +101,7 @@ Constitution d'une liste d'outils, répos, d'idées d'apps, challanges ou tout a
 
 
 | Nom de projet                                                                                                                      | Courte déscription                            |
-| ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| --------------------------------------------------------------------------------------- | ------------------------------ |
 | [Bot cuirassé](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Battleship-Bot.md) | Créez un bot Discord qui joue à Battleship |
 | [Moteur de jeu de cuirassé](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Battleship-Game-Engine.md) | Créez un moteur appelable pour jouer au jeu Battleship |
 | [Jeu Boole Bots](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Boole-Bot-Game.md) | Combattre des robots pilotés par l'algèbre booléenne |
@@ -224,7 +224,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 ## [Build your own X (codecrafters-io/build-your-own-x)](https://github.com/codecrafters-io/build-your-own-x)
 
 | Catégorie |
-| --------- |
+| ------ |
 | <a href="#3d-renderer-content" id="3d-renderer-cat">Rendu 3D</a> |
 | <a href="#augmented-reality-content" id="augmented-reality-cat">Réalité augmentée</a> |
 | <a href="#bittorrent-client-content" id="bittorrent-client-cat">Client BitTorrent</a> |
@@ -234,7 +234,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 | <a href="#database-content" id="database-cat">Base de données</a> |
 | <a href="#docker-content" id="docker-cat">Docker</a> |
 | <a href="#emulator--virtual-machine-content" id="emulator--virtual-machine-cat">Émulateur / Machine Virtuelle</a> |
-| <a href="#front-end-framework--library-content" id="front-end-framework--library-cat">Framework front-end/Bibliothèque</a> |
+| <a href="#front-end-framework--library-content" id="front-end-framework--library-cat">Framework front-end / Bibliothèque</a> |
 | <a href="#game-content" id="game-cat">Jeu</a> |
 | <a href="#git-content" id="git-cat">Git</a> |
 | <a href="#network-stack-content" id="network-stack-cat">Pile réseau</a> |
@@ -963,7 +963,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan="2" id="emulator---virtual-machine-content">Emulator / Virtual Machine</th>
+		<th colspan="2" id="emulator--virtual-machine-content">Emulator / Virtual Machine</th>
 	</tr>
 	<tr>
 		<td>
@@ -1070,7 +1070,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan="2" id="front-end-framework---library-content">Front-end Framework / Library</th>
+		<th colspan="2" id="front-end-framework--library-content">Front-end Framework / Library</th>
 	</tr>
 	<tr>
 		<td>
@@ -1898,7 +1898,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 			<strong>(n'importe lequel)</strong>
 		</td>
 		<td>
-			<a href="https://github.com/kanaka/mal#mal---make-a-lisp">mal - Faites un Lisp</a>
+			<a href="https://github.com/kanaka/mal#mal--make-a-lisp">mal - Faites un Lisp</a>
 		</td>
 	</tr>
 	<tr>
@@ -3160,7 +3160,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 ### TypeScript
 - [Apprendre TypeScript par la pratique](https://www.freecodecamp.org/news/learn-typescript-for-practical-projects)
 
----
+--
  
 > PS : C'est publique et ouvert à tous donc n'hésitez pas à faire une MR si vous avez d'autre sites de veille, outils, idées d'app à dev pour les devs juniors ou juste pour apprendre un langage, liens de tutos d'outils à dev sois même dans différents languages, ou même des liens vers des challanges de prog peux importe le langage ça interessera toujours des personnes si bien évidement ils ne sont pas déja présent ici 😉
 
