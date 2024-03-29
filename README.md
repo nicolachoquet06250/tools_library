@@ -15,7 +15,11 @@ Constitution d'une liste d'outils, répos, d'idées d'apps, challanges ou tout a
 
 ### [Niveau 1 - Projets de niveau débutant](#niveau-1)
 
+<!-- Non traduit -->
 <!-- [...document.querySelector('.markdown-heading + table:nth-of-type(4) tbody').querySelectorAll('tr')].map(e => `| [${e.querySelector('a').innerText}](${window.location.href}${e.querySelector('a').getAttribute('href')}) | ${e.querySelectorAll('td')[1].innerText} |`).join("\n") -->
+
+<!-- Traduit -->
+<!-- [...document.querySelector('.markdown-heading + table:nth-of-type(2) tbody').querySelectorAll('tr')].map(e => `| [${e.querySelector('a').innerText}](${window.location.href.replace('github-com.translate.goog', 'github.com').replace('/?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=fr', '')}${e.querySelector('a').getAttribute('href').replace('/florinpop17/app-ideas', '')}) | ${e.querySelectorAll('td')[1].innerText} |`).join("\n") -->
 
 | Nom de projet                                                                                                                      | Courte déscription                            |
 | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
