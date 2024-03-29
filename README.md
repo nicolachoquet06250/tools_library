@@ -3717,4 +3717,4 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
  
 > PS : C'est publique et ouvert à tous donc n'hésitez pas à faire une MR si vous avez d'autre sites de veille, outils, idées d'app à dev pour les devs juniors ou juste pour apprendre un langage, liens de tutos d'outils à dev sois même dans différents languages, ou même des liens vers des challanges de prog peux importe le langage ça interessera toujours des personnes si bien évidement ils ne sont pas déja présent ici 😉
 
-<a href="#top"><img src="data:image/svg+xml;utf8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgaWQ9InVwLWFycm93IiB3aWR0aD0iNTBweCI+PGcgZGF0YS1uYW1lPSJMYXllciAyIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTEyIDIyQTEwIDEwIDAgMSAwIDIgMTJhMTAgMTAgMCAwIDAgMTAgMTB6TTguMzEgMTAuMTRsMy0yLjg2YS40OS40OSAwIDAgMSAuMTUtLjEuNTQuNTQgMCAwIDEgLjE2LS4xLjk0Ljk0IDAgMCAxIC43NiAwIDEgMSAwIDAgMSAuMzMuMjFsMyAzYTEgMSAwIDAgMS0xLjQyIDEuNDJMMTMgMTAuNDFWMTZhMSAxIDAgMCAxLTIgMHYtNS42NmwtMS4zMSAxLjI1YTEgMSAwIDAgMS0xLjM4LTEuNDV6IiBkYXRhLW5hbWU9ImFycm93LWNpcmNsZS11cCI+PC9wYXRoPjwvZz48L3N2Zz4K"></a>
+[![Top](./assets/arrow-top.png)](#top)
