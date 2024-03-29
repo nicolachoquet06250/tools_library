@@ -221,6 +221,8 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 - API YouTube/client de recherche
 	- À l'aide de l'API YouTube, votre application devrait pouvoir saisir une chaîne de recherche et renvoyer les vidéos pour cette recherche. Par exemple, si je voulais regarder Starman de David Bowie, seules ces vidéos devraient être renvoyées. Cependant, si je ne suis pas pointilleux et que je veux simplement écouter David Bowie, cela devrait renvoyer un certain nombre de résultats relatifs à Bowie. Une fonctionnalité supplémentaire permettrait de choisir au hasard quelle vidéo est renvoyée ou de limiter le nombre de résultats renvoyés dans une seule recherche.
 
+## [Build your own X (codecrafters-io/build-your-own-x)](https://github.com/codecrafters-io/build-your-own-x)
+
 ## Veille
 
 ### Les APIs
