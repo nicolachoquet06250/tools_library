@@ -350,7 +350,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan="2" id="augmented-reality-content">Augmented Reality</th>
+		<th colspan="2" id="augmented-reality-content"><a href="#augmented-reality-cat">Augmented Reality</a></th>
 	</tr>
 	<tr>
 		<td>
@@ -401,7 +401,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan="2" id="bittorrent-client-content">BitTorrent Client</th>
+		<th colspan="2" id="bittorrent-client-content"><a href="#bittorrent-client-cat">BitTorrent Client</a></th>
 	</tr>
 	<tr>
 		<td>
@@ -444,7 +444,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan="2" id="blockchain--cryptocurrency-content">Blockchain / Cryptocurrency</th>
+		<th colspan="2" id="blockchain--cryptocurrency-content"><a href="#blockchain--cryptocurrency-cat">Blockchain / Cryptocurrency</a></th>
 	</tr>
 	<tr>
 		<td>
@@ -623,7 +623,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan="2" id="bot-content">Bot</th>
+		<th colspan="2" id="bot-content"><a href="#bot-cat">Bot</a></th>
 	</tr>
 	<tr>
 		<td>
@@ -746,7 +746,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan="2" id="command-line-tool-content">Command-Line Tool</th>
+		<th colspan="2" id="command-line-tool-content"><a href="#command-line-tool-cat">Command-Line Tool</a></th>
 	</tr>
 	<tr>
 		<td>
@@ -813,7 +813,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan="2" id="database-content">Database</th>
+		<th colspan="2" id="database-content"><a href="#database-cat">Database</a></th>
 	</tr>
 	<tr>
 		<td>
@@ -912,7 +912,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan="2" id="docker-content">Docker</th>
+		<th colspan="2" id="docker-content"><a href="#docker-cat">Docker</a></th>
 	</tr>
 	<tr>
 		<td>
@@ -963,7 +963,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan="2" id="emulator--virtual-machine-content">Emulator / Virtual Machine</th>
+		<th colspan="2" id="emulator--virtual-machine-content"><a href="#emulator--virtual-machine-cat">Emulator / Virtual Machine</a></th>
 	</tr>
 	<tr>
 		<td>
@@ -1070,7 +1070,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan="2" id="front-end-framework--library-content">Front-end Framework / Library</th>
+		<th colspan="2" id="front-end-framework--library-content"><a href="#front-end-framework--library-cat">Front-end Framework / Library</a></th>
 	</tr>
 	<tr>
 		<td>
@@ -1193,7 +1193,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan="2" id="game-content">Game</th>
+		<th colspan="2" id="game-content"><a href="#game-cat">Game</a></th>
 	</tr>
 	<tr>
 		<td>
@@ -1468,7 +1468,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan="2" id="git-content">Git</th>
+		<th colspan="2" id="git-content"><a href="#git-cat">Git</a></th>
 	</tr>
 	<tr>
 		<td>
@@ -1527,7 +1527,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan="2" id="network-stack-content">Network Stack</th>
+		<th colspan="2" id="network-stack-content"><a href="#network-stack-cat">Network Stack</a></th>
 	</tr>
 	<tr>
 		<td>
@@ -1562,7 +1562,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan="2" id="neural-network-content">Neural Network</th>
+		<th colspan="2" id="neural-network-content"><a href="#neural-network-cat">Neural Network</a></th>
 	</tr>
 	<tr>
 		<td>
@@ -1677,7 +1677,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan="2" id="operating-system-content">Operating System</th>
+		<th colspan="2" id="operating-system-content"><a href="#operating-system-cat">Operating System</a></th>
 	</tr>
 	<tr>
 		<td>
@@ -1832,7 +1832,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan="2" id="physics-engine-content">Physics Engine</th>
+		<th colspan="2" id="physics-engine-content"><a href="#physics-engine-cat">Physics Engine</a></th>
 	</tr>
 	<tr>
 		<td>
@@ -1891,7 +1891,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan="2" id="programming-language-content">Programming Language</th>
+		<th colspan="2" id="programming-language-content"><a href="#programming-language-cat">Programming Language</a></th>
 	</tr>
 	<tr>
 		<td>
@@ -2230,7 +2230,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan="2" id="regex-engine-content">Regex Engine</th>
+		<th colspan="2" id="regex-engine-content"><a href="#regex-engine-cat">Regex Engine</a></th>
 	</tr>
 	<tr>
 		<td>
@@ -2305,7 +2305,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan="2" id="search-engine-content">Search Engine</th>
+		<th colspan="2" id="search-engine-content"><a href="#search-engine-cat">Search Engine</a></th>
 	</tr>
 	<tr>
 		<td>
@@ -2356,7 +2356,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan="2" id="shell-content">Shell</th>
+		<th colspan="2" id="shell-content"><a href="#shell-cat">Shell</a></th>
 	</tr>
 	<tr>
 		<td>
@@ -2415,7 +2415,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan="2" id="template-engine-content">Template Engine</th>
+		<th colspan="2" id="template-engine-content"><a href="#template-engine-cat">Template Engine</a></th>
 	</tr>
 	<tr>
 		<td>
@@ -2458,7 +2458,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan="2" id="text-editor-content">Text Editor</th>
+		<th colspan="2" id="text-editor-content"><a href="#text-editor-cat">Text Editor</a></th>
 	</tr>
 	<tr>
 		<td>
@@ -2509,7 +2509,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan="2" id="visual-recognition-system-content">Visual Recognition System</th>
+		<th colspan="2" id="visual-recognition-system-content"><a href="#visual-recognition-system-cat">Visual Recognition System</a></th>
 	</tr>
 	<tr>
 		<td>
@@ -2528,7 +2528,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan="2" id="voxel-engine-content">Voxel Engine</th>
+		<th colspan="2" id="voxel-engine-content"><a href="#voxel-engine-cat">Voxel Engine</a></th>
 	</tr>
 	<tr>
 		<td>
@@ -2547,7 +2547,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan="2" id="web-browser-content">Web Browser</th>
+		<th colspan="2" id="web-browser-content"><a href="#web-browser-cat">Web Browser</a></th>
 	</tr>
 	<tr>
 		<td>
@@ -2566,7 +2566,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan="2" id="web-server-content">Web Server</th>
+		<th colspan="2" id="web-server-content"><a href="#web-server-cat">Web Server</a></th>
 	</tr>
 	<tr>
 		<td>
