@@ -5,9 +5,7 @@ Constitution d'une liste d'outils, répos, d'idées d'apps, challanges ou tout a
 ## Contributeurs
 <a href="https://github.com/nicolachoquet06250/"><img width="50px" height="50px" style="border-radius: 50px" src="./assets/github-personal-profile-pic.jpeg" alt="moi"></a>
 
-## App Ideas
-
-[florinpop17/app-ideas](https://github.com/florinpop17/app-ideas/)
+## [App Ideas (florinpop17/app-ideas)](https://github.com/florinpop17/app-ideas/)
 
 | Niveau                       | Profile développeur                                                                                                                                                |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -118,6 +116,114 @@ Constitution d'une liste d'outils, répos, d'idées d'apps, challanges ou tout a
 | [Slack Archiver](https://github.com/florinpop17/app-ideas//florinpop17/app-ideas/blob/master/Projects/3-Advanced/Slack-Archiver.md) | Archive Slack Messages |
 | [Spell-It App](https://github.com/florinpop17/app-ideas//florinpop17/app-ideas/blob/master/Projects/3-Advanced/SpellIt-App.md) | A twist on the classic Speak N Spell game |
 | [Survey App](https://github.com/florinpop17/app-ideas//florinpop17/app-ideas/blob/master/Projects/3-Advanced/Survey-App.md) | Define, conduct, and view a survey |
+
+## [Awesome App Ideas (tastejs/awesome-app-ideas)](https://github.com/tastejs/awesome-app-ideas/)
+
+- Jeu de tir d'arcade (Galaga, etc.)
+- Moniteur d'état de la batterie
+- Application Les 13 Vertus de Benjamin Franklin
+- Recherche de livres
+- Application d'entraînement BTN
+- Calculatrice
+	- Un simple programme de calculatrice avec des fonctions standard ou des fonctions scientifiques.
+Opérations arithmétiques de base -> Opérations d'ajout, de soustraction, de multiplication, de division
+de la mémoire -> Enregistrer dans la mémoire, Rappel de la mémoire, Effacer la mémoire, Historique des opérations
+Autres opérations -> Effacer les données (Efface la zone de saisie et les données de la mémoire)
+- Calculateur de course à pied - Temps, distance, allure pour votre prochaine course
+- Application Calendrier
+- Application Compteur de calories (perte de poids)
+- Bot de discussion
+- Tchat
+- Éditeur de photos côté client (application VSCO/Darkroom)
+- Lecteur audio cloud
+- Recherche de codes
+- Collaboratif Etherpad Lite comme l'éditeur Markdown
+- Application de conférence
+	- Cette application Web doit offrir une fonctionnalité à la fois à l'organisateur de la conférence et aux participants. Principales fonctionnalités : informations sur les pistes/conférences (bio du conférencier, liens vers les diapositives), planning avec notification push sur les conférences choisies par l'utilisateur.
+- Vérificateur de connectivité
+- Gestionnaire de contacts
+- Compte à rebours / Chronomètre
+- Tableau de bord
+	- Cette application doit ressembler à un tableau de bord de type RH où un utilisateur peut se connecter et afficher des informations sur l'entreprise. Elle peut avoir une section Employé qui affiche les informations de cet employé comme le nom, l'adresse, le téléphone, l'e-mail, le poste dans l'entreprise, la durée de son emploi, la date de début, le temps de vacances restant, etc. L'application doit également avoir une sorte de projet. suivi. Vous pouvez inclure des graphiques et des tableaux montrant les progrès de l’entreprise d’une année à l’autre. Une autre chose serait d'ajouter un espace permettant au responsable des ressources humaines de faire une annonce à l'échelle de l'entreprise qui apparaîtrait sur l'intranet de l'entreprise.
+- Boussole dédiée
+- Suivi de régime
+- Client Docker
+- Gestionnaire des employés
+- liseuse
+- Football fantastique
+- Application de partage de fichiers
+- Lampe de poche
+- Application Galerie ou Portfolio
+- Application cadeaux (trouver des cadeaux pour des amis)
+- Client API GitHub
+- Application de notifications Github
+- Application de recherche de vidéos pour développeurs Google/Chrome/Android
+- Tablatures de guitare
+- Accordeur de guitare
+- Recherche d'accords pour guitare/instrument à cordes
+- Gym Keeper (Ensembles / Compteur de répétitions)
+- Hacker News API/client de recherche
+- Détecteur/Traducteur de gestes de la main
+	- Une application qui utilisera la caméra de l'appareil comme entrée, détectera les gestes et mouvements d'une personne et les traduira en un travail significatif, c'est-à-dire effectuera certaines actions basées sur les gestes de la main détectés. Le meilleur cas d’utilisation serait de l’utiliser pour enseigner de nouvelles choses aux tout-petits avec des sons et des animations. En outre, cela peut faciliter la compréhension et l’interaction avec les personnes sourdes-muettes.
+- Bourreau
+- Application de recherche de logement ciblant les besoins des familles
+- Client Instagram
+- Tableau Kanban
+- Suivi des étapes des enfants
+- Traducteur de langue (pensez à Google Translate)
+- Client de messagerie
+- Critiques de films
+- Films / Recherche IMDB
+- Chemins de fer nationaux
+- A proximité (transports, cafés, tout)
+- Lecteur de nouvelles (par exemple lecteur RSS)
+- Application de prise de notes
+- Lecteur de livres hors ligne
+- Pédomètre
+- Photomaton
+- Recadrage de photos
+- Application de partage de photos
+- Composeur de commandes de pizza
+	- Stocke les préférences des gens en matière de garnitures, et peut-être aussi les styles de croûte, c'est-à-dire ce qu'ils aiment, aiment, n'aiment pas, détestent ou sont neutres. (Autre idée : stockez uniquement les préférences du propriétaire de l'appareil, et plusieurs instances peuvent communiquer entre elles pour collaborer, en remplissant d'autres personnes de manière ponctuelle.) Pour préparer une commande, dites qui est là et à quel point il a faim. Il doit préparer une commande qui nourrira tout le monde, maximisera le bonheur avec les garnitures et minimisera le prix. Par exemple, "1 demi-champignon mi-pepperoni moyen plus 2 gros hawaïens". Il pourrait obtenir des prix, et peut-être des emplacements, à partir de diverses sources en ligne à déterminer, ou simplement faire des hypothèses.
+- Planification des cartes de poker
+- Lecteur de podcasts
+- Application Pomodoro
+- API Product Hunt/client de recherche
+- Scanner de codes QR
+- Application de quiz/questionnaire
+- Application de devis
+- Application de recettes
+- Client Reddit
+- Application de rappels
+- Gardien de course
+- Jeu simple (par exemple cartes ou LetterPress)
+- Client Snap and Share (application Appareil photo, partage sur Drive)
+- Application Test de vitesse
+- Niveau à bulle
+- Client d'échange de pile
+- Application collante
+- Suivi du portefeuille d'actions
+- Application de surf
+	- Laissez l'utilisateur enregistrer sa position, puis fournissez des rapports indiquant quelles plages sont les meilleures pour surfer dans les prochains jours. C'est une bonne opportunité d'utiliser les API météo pour quelque chose de plus spécifique.
+- Morpion
+- Application d'horaires
+- Liste de tâches (classique)
+- Application de voyage
+- Client API Trello
+- Mélodies / Recherche de musique / lecteur
+- Client Twitter
+- Test de dactylographie
+- Raccourcisseur d'URL
+	- Cela prendra une URL complète ( https://foo.bar ) et la renverra dans une chaîne contenant 8 caractères alphanumériques (AZ, 0-9) qui représenteront une URL raccourcie. Vous devez mettre en place des fonctions de garde pour empêcher tout type d'attaque de type injection SQL.
+- Vigne
+- Application météo
+- Qu'y a-t-il près de chez moi ? (API Google Maps)
+- Application de messagerie de style WhatsApp
+- Cave à vin (responsable des vins)
+	- Un responsable d'un restaurant haut de gamme a besoin d'une application pour l'aider à gérer la collection de (x) bouteilles de vin du restaurant. Le gérant souhaite connaître le vignoble, la localisation, l'année, le style, l'emplacement en cave, le nombre de bouteilles restantes, le prix de vente, le prix d'achat, ainsi que des notes de dégustation. Tous les champs doivent être mis à jour car les prix, les notes de dégustation et les années changeront fréquemment. Il doit également contenir une image de l'étiquette/de la bouteille.
+- Application pour le dîner des parents qui travaillent
+- API YouTube/client de recherche
+	- À l'aide de l'API YouTube, votre application devrait pouvoir saisir une chaîne de recherche et renvoyer les vidéos pour cette recherche. Par exemple, si je voulais regarder Starman de David Bowie, seules ces vidéos devraient être renvoyées. Cependant, si je ne suis pas pointilleux et que je veux simplement écouter David Bowie, cela devrait renvoyer un certain nombre de résultats relatifs à Bowie. Une fonctionnalité supplémentaire permettrait de choisir au hasard quelle vidéo est renvoyée ou de limiter le nombre de résultats renvoyés dans une seule recherche.
 
 ## Veille
 
