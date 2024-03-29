@@ -225,33 +225,33 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 
 | Catégorie |
 | --------- |
-| <a href="#rendu-3d-content" id="rendu-3d-cat">Rendu 3D</a> |
-| <a href="#réalité-augmentée-content" id="réalité-augmentée-cat">Réalité augmentée</a> |
-| <a href="#client-bittorrent-content" id="client-bittorrent-cat">Client BitTorrent</a> |
-| <a href="#blockchain---crypto-monnaie-content" id="blockchain---crypto-monnaie-cat">Blockchain / Crypto-monnaie</a> |
+| <a href="#3d-renderer-content" id="3d-renderer-cat">Rendu 3D</a> |
+| <a href="#augmented-reality-content" id="augmented-reality-cat">Réalité augmentée</a> |
+| <a href="#bittorrent-client-content" id="bittorrent-client-cat">Client BitTorrent</a> |
+| <a href="#blockchain--cryptocurrency-content" id="blockchain--cryptocurrency-cat">Blockchain / Crypto-monnaie</a> |
 | <a href="#bot-content" id="bot-cat">Bot</a> |
-| <a href="#outil-de-ligne-de-commande-content" id="outil-de-ligne-de-commande-cat">Outil de ligne de commande</a> |
-| <a href="#base-de-données-content" id="base-de-données-cat">Base de données</a> |
+| <a href="#command-line-tool-content" id="command-line-tool-cat">Outil de ligne de commande</a> |
+| <a href="#database-content" id="database-cat">Base de données</a> |
 | <a href="#docker-content" id="docker-cat">Docker</a> |
-| <a href="#émulateur---machine-virtuelle-content" id="émulateur---machine-virtuelle-cat">Émulateur / Machine Virtuelle</a> |
-| <a href="#framework-front-end-bibliothèque-content" id="framework-front-end-bibliothèque-cat">Framework front-end/Bibliothèque</a> |
-| <a href="#jeu-content" id="jeu-cat">Jeu</a> |
+| <a href="#emulator--virtual-machine-content" id="emulator--virtual-machine-cat">Émulateur / Machine Virtuelle</a> |
+| <a href="#front-end-framework--library-content" id="front-end-framework--library-cat">Framework front-end/Bibliothèque</a> |
+| <a href="#game-content" id="game-cat">Jeu</a> |
 | <a href="#git-content" id="git-cat">Git</a> |
-| <a href="#pile-réseau-content" id="pile-réseau-cat">Pile réseau</a> |
-| <a href="#réseau-neuronal-content" id="réseau-neuronal-cat">Réseau neuronal</a> |
-| <a href="#système-opérateur-content" id="système-opérateur-cat">Système opérateur</a> |
-| <a href="#moteur-physique-content" id="moteur-physique-cat">Moteur physique</a> |
-| <a href="#langage-de-programmation-content" id="langage-de-programmation-cat">Langage de programmation</a> |
-| <a href="#moteur-d'expression-régulière-content" id="moteur-d'expression-régulière-cat">Moteur d'expression régulière</a> |
-| <a href="#moteur-de-recherche-content" id="moteur-de-recherche-cat">Moteur de recherche</a> |
-| <a href="#coquille-content" id="coquille-cat">Coquille</a> |
-| <a href="#moteur-de-modèles-content" id="moteur-de-modèles-cat">Moteur de modèles</a> |
-| <a href="#éditeur-de-texte-content" id="éditeur-de-texte-cat">Éditeur de texte</a> |
-| <a href="#système-de-reconnaissance-visuelle-content" id="système-de-reconnaissance-visuelle-cat">Système de reconnaissance visuelle</a> |
-| <a href="#moteur-voxel-content" id="moteur-voxel-cat">Moteur Voxel</a> |
-| <a href="#navigateur-web-content" id="navigateur-web-cat">Navigateur Web</a> |
-| <a href="#serveur-web-content" id="serveur-web-cat">Serveur Web</a> |
-| <a href="#non-classé-content" id="non-classé-cat">Non classé</a> |
+| <a href="#network-stack-content" id="network-stack-cat">Pile réseau</a> |
+| <a href="#neural-network-content" id="neural-network-cat">Réseau neuronal</a> |
+| <a href="#operating-system-content" id="operating-system-cat">Système opérateur</a> |
+| <a href="#physics-engine-content" id="physics-engine-cat">Moteur physique</a> |
+| <a href="#programming-language-content" id="programming-language-cat">Langage de programmation</a> |
+| <a href="#regex-engine-content" id="regex-engine-cat">Moteur d'expression régulière</a> |
+| <a href="#search-engine-content" id="search-engine-cat">Moteur de recherche</a> |
+| <a href="#shell-content" id="shell-cat">Coquille</a> |
+| <a href="#template-engine-content" id="template-engine-cat">Moteur de modèles</a> |
+| <a href="#text-editor-content" id="text-editor-cat">Éditeur de texte</a> |
+| <a href="#visual-recognition-system-content" id="visual-recognition-system-cat">Système de reconnaissance visuelle</a> |
+| <a href="#voxel-engine-content" id="voxel-engine-cat">Moteur Voxel</a> |
+| <a href="#web-browser-content" id="web-browser-cat">Navigateur Web</a> |
+| <a href="#web-server-content" id="web-server-cat">Serveur Web</a> |
+| <a href="##uncategorized-content" id="#uncategorized-cat">Non classé</a> |
 
 <table>
 	<tr>
