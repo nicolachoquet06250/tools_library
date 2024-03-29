@@ -897,7 +897,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 	<tr>
 		<td>
-			<strong>Allez</strong>
+			<strong>Go</strong>
 		</td>
 		<td>
 			<a href="https://www.build-redis-from-scratch.dev/">créez votre propre Redis à partir de zéro</a>
@@ -1713,7 +1713,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 	<tr>
 		<td>
-			<strong>Assemblage</strong>
+			<strong>Assembleur</strong>
 		</td>
 		<td>
 			<a href="http://joebergeron.io/posts/post_two.html">écriture d'un petit chargeur de démarrage x86</a>
@@ -1721,7 +1721,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 	<tr>
 		<td>
-			<strong>Assemblage</strong>
+			<strong>Assembleur</strong>
 		</td>
 		<td>
 			<a href="http://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/index.html">Baking Pi – Développement de systèmes d’exploitation</a>
@@ -1935,7 +1935,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 	<tr>
 		<td>
-			<strong>Assemblée</strong>
+			<strong>Assembleur</strong>
 		</td>
 		<td>
 			<a href="https://github.com/nornagon/jonesforth/blob/master/jonesforth.S">Jonesforth</a>
@@ -2031,7 +2031,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 	<tr>
 		<td>
-			<strong>Allez</strong>
+			<strong>Go</strong>
 		</td>
 		<td>
 			<a href="https://github.com/hazbo/the-super-tiny-compiler">Le compilateur Super Tiny</a>
@@ -2282,7 +2282,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 	<tr>
 		<td>
-			<strong>Aller</strong>
+			<strong>Go</strong>
 		</td>
 		<td>
 			<a href="https://rhaeguard.github.io/posts/regex"> Comment créer un moteur d'expressions régulières à partir de zéro</a>
@@ -2821,7 +2821,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 	<tr>
 		<td>
-			<strong>Aller</strong>
+			<strong>Go</strong>
 		</td>
 		<td>
 			<a href="https://kasvith.me/posts/lets-create-a-simple-lb-go/">créons un équilibreur de charge simple</a>
