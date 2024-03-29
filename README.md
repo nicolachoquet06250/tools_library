@@ -3688,8 +3688,16 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 
 ## Challanges
 
+### Types Challange (type-challenges/type-challenges)
+
 [![Chanllange typescript types](./assets/screenshot-tsch.png)](https://tsch.js.org/)
 [![Github](https://img.shields.io/badge/GitHub-fff?style=social&logo=github&logoColor=pin)](https://github.com/type-challenges/type-challenges)
+
+### Processing One Billion Rows
+
+[![One Billion Rows](./assets/screenshot-one-billion.png)](https://www.morling.dev/blog/one-billion-row-challenge)
+[![Github](https://img.shields.io/badge/GitHub-fff?style=social&logo=github&logoColor=pin)](https://github.com/gunnarmorling/1brc?tab=readme-ov-file)<br>
+[![Article](https://img.shields.io/badge/Dev.to-fff?style=social&logo=livejournal&logoColor=black)](https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0)
 
 
 ## Veille
@@ -3706,8 +3714,3 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 --
  
 > PS : C'est publique et ouvert à tous donc n'hésitez pas à faire une MR si vous avez d'autre sites de veille, outils, idées d'app à dev pour les devs juniors ou juste pour apprendre un langage, liens de tutos d'outils à dev sois même dans différents languages, ou même des liens vers des challanges de prog peux importe le langage ça interessera toujours des personnes si bien évidement ils ne sont pas déja présent ici 😉
-
-## Autres liens prévus à rajouter
-- https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0
-  - https://github.com/gunnarmorling/1brc?tab=readme-ov-file
-  - https://www.morling.dev/blog/one-billion-row-challenge
