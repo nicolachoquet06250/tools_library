@@ -246,7 +246,6 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 > PS : C'est publique et ouvert à tous donc n'hésitez pas à faire une MR si vous avez d'autre sites de veille, outils, idées d'app à dev pour les devs juniors ou juste pour apprendre un langage, liens de tutos d'outils à dev sois même dans différents languages, ou même des liens vers des challanges de prog peux importe le langage ça interessera toujours des personnes si bien évidement ils ne sont pas déja présent ici 😉
 
 ## Autres liens prévus à rajouter
-- https://github.com/tastejs/awesome-app-ideas
 - https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file
 - https://github.com/osynavets/build-your-own-x-in-rust
 - https://github.com/buhe/build-your-own-x-zh
