@@ -226,32 +226,32 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 | Catégorie |
 | --------- |
 | <a href="#rendu-3d-content" id="rendu-3d-cat">Rendu 3D</a> |
-| <a href="#realite-augmentee-content" id="realite-augmentee-cat">Réalité augmentée</a> |
+| <a href="#réalité-augmentée-content" id="réalité-augmentée-cat">Réalité augmentée</a> |
 | <a href="#client-bittorrent-content" id="client-bittorrent-cat">Client BitTorrent</a> |
-| <a href="#blockchain-/ crypto-monnaie-content" id="blockchain-/ crypto-monnaie-cat">Blockchain / Crypto-monnaie</a> |
+| <a href="#blockchain---crypto-monnaie-content" id="blockchain---crypto-monnaie-cat">Blockchain / Crypto-monnaie</a> |
 | <a href="#bot-content" id="bot-cat">Bot</a> |
-| <a href="#outil-de ligne de commande-content" id="outil-de ligne de commande-cat">Outil de ligne de commande</a> |
-| <a href="#base-de donnees-content" id="base-de donnees-cat">Base de données</a> |
+| <a href="#outil-de-ligne-de-commande-content" id="outil-de-ligne-de-commande-cat">Outil de ligne de commande</a> |
+| <a href="#base-de-données-content" id="base-de-données-cat">Base de données</a> |
 | <a href="#docker-content" id="docker-cat">Docker</a> |
-| <a href="#emulateur-/ machine virtuelle-content" id="emulateur-/ machine virtuelle-cat">Émulateur / Machine Virtuelle</a> |
-| <a href="#framework-front-end/bibliothque-content" id="framework-front-end/bibliothque-cat">Framework front-end/Bibliothèque</a> |
+| <a href="#émulateur---machine-virtuelle-content" id="émulateur---machine-virtuelle-cat">Émulateur / Machine Virtuelle</a> |
+| <a href="#framework-front-end-bibliothèque-content" id="framework-front-end-bibliothèque-cat">Framework front-end/Bibliothèque</a> |
 | <a href="#jeu-content" id="jeu-cat">Jeu</a> |
 | <a href="#git-content" id="git-cat">Git</a> |
-| <a href="#pile-reseau-content" id="pile-reseau-cat">Pile réseau</a> |
-| <a href="#reseau-neuronal-content" id="reseau-neuronal-cat">Réseau neuronal</a> |
-| <a href="#systme-operateur-content" id="systme-operateur-cat">Système opérateur</a> |
+| <a href="#pile-réseau-content" id="pile-réseau-cat">Pile réseau</a> |
+| <a href="#réseau-neuronal-content" id="réseau-neuronal-cat">Réseau neuronal</a> |
+| <a href="#système-opérateur-content" id="système-opérateur-cat">Système opérateur</a> |
 | <a href="#moteur-physique-content" id="moteur-physique-cat">Moteur physique</a> |
-| <a href="#langage-de programmation-content" id="langage-de programmation-cat">Langage de programmation</a> |
-| <a href="#moteur-d'expression regulire-content" id="moteur-d'expression regulire-cat">Moteur d'expression régulière</a> |
-| <a href="#moteur-de recherche-content" id="moteur-de recherche-cat">Moteur de recherche</a> |
+| <a href="#langage-de-programmation-content" id="langage-de-programmation-cat">Langage de programmation</a> |
+| <a href="#moteur-d'expression-régulière-content" id="moteur-d'expression-régulière-cat">Moteur d'expression régulière</a> |
+| <a href="#moteur-de-recherche-content" id="moteur-de-recherche-cat">Moteur de recherche</a> |
 | <a href="#coquille-content" id="coquille-cat">Coquille</a> |
-| <a href="#moteur-de modles-content" id="moteur-de modles-cat">Moteur de modèles</a> |
-| <a href="#editeur-de texte-content" id="editeur-de texte-cat">Éditeur de texte</a> |
-| <a href="#systme-de reconnaissance visuelle-content" id="systme-de reconnaissance visuelle-cat">Système de reconnaissance visuelle</a> |
+| <a href="#moteur-de-modèles-content" id="moteur-de-modèles-cat">Moteur de modèles</a> |
+| <a href="#éditeur-de-texte-content" id="éditeur-de-texte-cat">Éditeur de texte</a> |
+| <a href="#système-de-reconnaissance-visuelle-content" id="système-de-reconnaissance-visuelle-cat">Système de reconnaissance visuelle</a> |
 | <a href="#moteur-voxel-content" id="moteur-voxel-cat">Moteur Voxel</a> |
 | <a href="#navigateur-web-content" id="navigateur-web-cat">Navigateur Web</a> |
 | <a href="#serveur-web-content" id="serveur-web-cat">Serveur Web</a> |
-| <a href="#non-classe-content" id="non-classe-cat">Non classé</a> |
+| <a href="#non-classé-content" id="non-classé-cat">Non classé</a> |
 
 <table>
 	<tr>
@@ -259,7 +259,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		<th>Tutoriel</th>
 	</tr>
 	<tr>
-		<th colspan=2">3D Renderer</th>
+		<th colspan=2" id="3d-renderer-content">3D Renderer</th>
 	</tr>
 	<tr>
 		<td>
@@ -350,7 +350,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan=2">Augmented Reality</th>
+		<th colspan=2" id="augmented-reality-content">Augmented Reality</th>
 	</tr>
 	<tr>
 		<td>
@@ -401,7 +401,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan=2">BitTorrent Client</th>
+		<th colspan=2" id="bittorrent-client-content">BitTorrent Client</th>
 	</tr>
 	<tr>
 		<td>
@@ -444,7 +444,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan=2">Blockchain / Cryptocurrency</th>
+		<th colspan=2" id="blockchain---cryptocurrency-content">Blockchain / Cryptocurrency</th>
 	</tr>
 	<tr>
 		<td>
@@ -623,7 +623,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan=2">Bot</th>
+		<th colspan=2" id="bot-content">Bot</th>
 	</tr>
 	<tr>
 		<td>
@@ -746,7 +746,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan=2">Command-Line Tool</th>
+		<th colspan=2" id="command-line-tool-content">Command-Line Tool</th>
 	</tr>
 	<tr>
 		<td>
@@ -813,7 +813,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan=2">Database</th>
+		<th colspan=2" id="database-content">Database</th>
 	</tr>
 	<tr>
 		<td>
@@ -912,7 +912,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan=2">Docker</th>
+		<th colspan=2" id="docker-content">Docker</th>
 	</tr>
 	<tr>
 		<td>
@@ -963,7 +963,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan=2">Emulator / Virtual Machine</th>
+		<th colspan=2" id="emulator---virtual-machine-content">Emulator / Virtual Machine</th>
 	</tr>
 	<tr>
 		<td>
@@ -1070,7 +1070,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan=2">Front-end Framework / Library</th>
+		<th colspan=2" id="front-end-framework---library-content">Front-end Framework / Library</th>
 	</tr>
 	<tr>
 		<td>
@@ -1193,7 +1193,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan=2">Game</th>
+		<th colspan=2" id="game-content">Game</th>
 	</tr>
 	<tr>
 		<td>
@@ -1468,7 +1468,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan=2">Git</th>
+		<th colspan=2" id="git-content">Git</th>
 	</tr>
 	<tr>
 		<td>
@@ -1527,7 +1527,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan=2">Network Stack</th>
+		<th colspan=2" id="network-stack-content">Network Stack</th>
 	</tr>
 	<tr>
 		<td>
@@ -1562,7 +1562,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan=2">Neural Network</th>
+		<th colspan=2" id="neural-network-content">Neural Network</th>
 	</tr>
 	<tr>
 		<td>
@@ -1677,7 +1677,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan=2">Operating System</th>
+		<th colspan=2" id="operating-system-content">Operating System</th>
 	</tr>
 	<tr>
 		<td>
@@ -1832,7 +1832,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan=2">Physics Engine</th>
+		<th colspan=2" id="physics-engine-content">Physics Engine</th>
 	</tr>
 	<tr>
 		<td>
@@ -1891,7 +1891,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan=2">Programming Language</th>
+		<th colspan=2" id="programming-language-content">Programming Language</th>
 	</tr>
 	<tr>
 		<td>
@@ -2230,7 +2230,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan=2">Regex Engine</th>
+		<th colspan=2" id="regex-engine-content">Regex Engine</th>
 	</tr>
 	<tr>
 		<td>
@@ -2305,7 +2305,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan=2">Search Engine</th>
+		<th colspan=2" id="search-engine-content">Search Engine</th>
 	</tr>
 	<tr>
 		<td>
@@ -2356,7 +2356,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan=2">Shell</th>
+		<th colspan=2" id="shell-content">Shell</th>
 	</tr>
 	<tr>
 		<td>
@@ -2415,7 +2415,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan=2">Template Engine</th>
+		<th colspan=2" id="template-engine-content">Template Engine</th>
 	</tr>
 	<tr>
 		<td>
@@ -2458,7 +2458,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan=2">Text Editor</th>
+		<th colspan=2" id="text-editor-content">Text Editor</th>
 	</tr>
 	<tr>
 		<td>
@@ -2509,7 +2509,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan=2">Visual Recognition System</th>
+		<th colspan=2" id="visual-recognition-system-content">Visual Recognition System</th>
 	</tr>
 	<tr>
 		<td>
@@ -2528,7 +2528,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan=2">Voxel Engine</th>
+		<th colspan=2" id="voxel-engine-content">Voxel Engine</th>
 	</tr>
 	<tr>
 		<td>
@@ -2547,7 +2547,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan=2">Web Browser</th>
+		<th colspan=2" id="web-browser-content">Web Browser</th>
 	</tr>
 	<tr>
 		<td>
@@ -2566,7 +2566,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan=2">Web Server</th>
+		<th colspan=2" id="web-server-content">Web Server</th>
 	</tr>
 	<tr>
 		<td>
@@ -2657,7 +2657,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 	</tr>
 	<tr>
-		<th colspan=2">Non classé</th>
+		<th colspan=2" id="non-classé-content">Non classé</th>
 	</tr>
 	<tr>
 		<td>
