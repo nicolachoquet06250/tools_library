@@ -223,7 +223,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 
 ## [Build your own X (codecrafters-io/build-your-own-x)](https://github.com/codecrafters-io/build-your-own-x)
 
-| Catégorie |
+| Catégories |
 | ------ |
 | <a href="#3d-renderer-content" id="3d-renderer-cat">Rendu 3D</a> |
 | <a href="#augmented-reality-content" id="augmented-reality-cat">Réalité augmentée</a> |
