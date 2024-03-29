@@ -51,7 +51,7 @@ Constitution d'une liste d'outils, répos, d'idées d'apps, challanges ou tout a
 - [rest-api-guidelines.pdf](./assets/rest-api-guidelines.pdf)
 
 ### JavaScript
-- [Les Promises](https://www.lydiahallie.com/blog/promise-execution?ref=dailydev)
+- [JavaScript Visualized: Promise Execution](https://www.lydiahallie.com/blog/promise-execution?ref=dailydev)
 
 ---
  
