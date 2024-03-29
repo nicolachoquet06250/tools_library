@@ -3179,7 +3179,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 </table>
 
-## [Build your own X in Rust (osynavets/build-your-own-x-in-rust)](https://github.com/osynavets/build-your-own-x-in-rust)
+### [Build your own X in Rust (osynavets/build-your-own-x-in-rust)](https://github.com/osynavets/build-your-own-x-in-rust)
 
 | Catégories |
 | ------ |
@@ -3635,9 +3635,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 </table>
 
-## [Build your own X in PHP (akondas/build-your-own-x-in-php)](https://github.com/akondas/build-your-own-x-in-php)
-
-<!-- [...document.querySelectorAll('div.markdown-heading:has(>h3), div.markdown-heading:has(>h3)+p')].map(e => e.tagName.toLowerCase() === 'div' ? `- ${e.querySelector('h3').innerText}` : `\t- ${e.innerText}`).join("\n") -->
+### [Build your own X in PHP (akondas/build-your-own-x-in-php)](https://github.com/akondas/build-your-own-x-in-php)
 
 <table>
 	<tr>
