@@ -241,6 +241,9 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 ### JavaScript
 - [JavaScript Visualized: Promise Execution](https://www.lydiahallie.com/blog/promise-execution?ref=dailydev)
 
+### TypeScript
+- [Apprendre TypeScript par la pratique](https://www.freecodecamp.org/news/learn-typescript-for-practical-projects)
+
 ---
  
 > PS : C'est publique et ouvert à tous donc n'hésitez pas à faire une MR si vous avez d'autre sites de veille, outils, idées d'app à dev pour les devs juniors ou juste pour apprendre un langage, liens de tutos d'outils à dev sois même dans différents languages, ou même des liens vers des challanges de prog peux importe le langage ça interessera toujours des personnes si bien évidement ils ne sont pas déja présent ici 😉
