@@ -3648,42 +3648,42 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		<th colspan="2">Blockchain / Cryptocurrency</th>
 	</tr>
 	<tr>
-		<td>PHP</td>
+		<th>PHP</th>
 		<td><a href="https://github.com/akondas/php-blockchain">Blockchain de travail minimal implémenté en PHP</a></td>
 	</tr>
 	<tr>
 		<th colspan="2">Bot</th>
 	</tr>
 	<tr>
-		<td>PHP</td>
+		<th>PHP</th>
 		<td><a href="https://github.com/botman/botman">Une bibliothèque PHP indépendante du framework pour créer des chatbots</a></td>
 	</tr>
 	<tr>
 		<th colspan="2">Emulator</th>
 	</tr>
 	<tr>
-		<td>PHP</td>
+		<th>PHP</th>
 		<td><a href="https://github.com/gabrielrcouto/php-terminal-gameboy-emulator">Un émulateur GameBoy de terminal PHP</a></td>
 	</tr>
 	<tr>
 		<th colspan="2">Web Search Engine</th>
 	</tr>
 	<tr>
-		<td>PHP</td>
+		<th>PHP</th>
 		<td><a href="https://boyter.org/2013/01/code-for-a-search-engine-in-php-part-1/">Coder un moteur de recherche en PHP</a></td>
 	</tr>
 	<tr>
 		<th colspan="2">Web Server</th>
 	</tr>
 	<tr>
-		<td>PHP</td>
+		<th>PHP</th>
 		<td><a href="http://station.clancats.com/writing-a-webserver-in-pure-php/">Ecrire un serveur web en PHP pur</a></td>
 	</tr>
 	<tr>
 		<th colspan="2">Non classé</th>
 	</tr>
 	<tr>
-		<td>PHP</td>
+		<th>PHP</th>
 		<td><a href="http://nand2tetris.org/">De la NAND à Tetris : construire un ordinateur moderne à partir des premiers principes</a></td>
 	</tr>
 </table>
