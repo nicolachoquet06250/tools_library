@@ -128,10 +128,7 @@ Constitution d'une liste d'outils, répos, d'idées d'apps, challanges ou tout a
 <!-- [...document.querySelectorAll('div.markdown-heading:has(>h3), div.markdown-heading:has(>h3)+p')].map(e => e.tagName.toLowerCase() === 'div' ? `- ${e.querySelector('h3').innerText}` : `\t- ${e.innerText}`).join("\n") -->
 
 - Jeu de tir d'arcade (Galaga, etc.)
-- Moniteur d'état de la batterie
-- Application Les 13 Vertus de Benjamin Franklin
 - Recherche de livres
-- Application d'entraînement BTN
 - Calculatrice
 	- Un simple programme de calculatrice avec des fonctions standard ou des fonctions scientifiques.
 Opérations arithmétiques de base -> Opérations d'ajout, de soustraction, de multiplication, de division
@@ -144,8 +141,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 - Tchat
 - Éditeur de photos côté client (application VSCO/Darkroom)
 - Lecteur audio cloud
-- Recherche de codes
-- Collaboratif Etherpad Lite comme l'éditeur Markdown
+- Editeur Markdown
 - Application de conférence
 	- Cette application Web doit offrir une fonctionnalité à la fois à l'organisateur de la conférence et aux participants. Principales fonctionnalités : informations sur les pistes/conférences (bio du conférencier, liens vers les diapositives), planning avec notification push sur les conférences choisies par l'utilisateur.
 - Vérificateur de connectivité
@@ -156,9 +152,8 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 - Boussole dédiée
 - Suivi de régime
 - Client Docker
-- Gestionnaire des employés
+- Gestionnaire d'employés
 - liseuse
-- Football fantastique
 - Application de partage de fichiers
 - Lampe de poche
 - Application Galerie ou Portfolio
@@ -169,21 +164,16 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 - Tablatures de guitare
 - Accordeur de guitare
 - Recherche d'accords pour guitare/instrument à cordes
-- Gym Keeper (Ensembles / Compteur de répétitions)
 - Hacker News API/client de recherche
 - Détecteur/Traducteur de gestes de la main
 	- Une application qui utilisera la caméra de l'appareil comme entrée, détectera les gestes et mouvements d'une personne et les traduira en un travail significatif, c'est-à-dire effectuera certaines actions basées sur les gestes de la main détectés. Le meilleur cas d’utilisation serait de l’utiliser pour enseigner de nouvelles choses aux tout-petits avec des sons et des animations. En outre, cela peut faciliter la compréhension et l’interaction avec les personnes sourdes-muettes.
-- Bourreau
 - Application de recherche de logement ciblant les besoins des familles
 - Client Instagram
 - Tableau Kanban
-- Suivi des étapes des enfants
 - Traducteur de langue (pensez à Google Translate)
 - Client de messagerie
 - Critiques de films
 - Films / Recherche IMDB
-- Chemins de fer nationaux
-- A proximité (transports, cafés, tout)
 - Lecteur de nouvelles (par exemple lecteur RSS)
 - Application de prise de notes
 - Lecteur de livres hors ligne
@@ -197,13 +187,12 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 - Lecteur de podcasts
 - Application Pomodoro
 - API Product Hunt/client de recherche
-- Scanner de codes QR
+- Scanner de QR codes
 - Application de quiz/questionnaire
 - Application de devis
 - Application de recettes
 - Client Reddit
 - Application de rappels
-- Gardien de course
 - Jeu simple (par exemple cartes ou LetterPress)
 - Client Snap and Share (application Appareil photo, partage sur Drive)
 - Application Test de vitesse
@@ -223,7 +212,6 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 - Test de dactylographie
 - Raccourcisseur d'URL
 	- Cela prendra une URL complète ( https://foo.bar ) et la renverra dans une chaîne contenant 8 caractères alphanumériques (AZ, 0-9) qui représenteront une URL raccourcie. Vous devez mettre en place des fonctions de garde pour empêcher tout type d'attaque de type injection SQL.
-- Vigne
 - Application météo
 - Qu'y a-t-il près de chez moi ? (API Google Maps)
 - Application de messagerie de style WhatsApp
