@@ -223,6 +223,8 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 
 ## [Build your own X (codecrafters-io/build-your-own-x)](https://github.com/codecrafters-io/build-your-own-x)
 
+<!-- [...document.querySelectorAll('article ul:first-of-type li a')].map(e => `| <a href="#${e.getAttribute('href').replace('#build-your-own-', '')}-content" id="${e.getAttribute('href').replace('#build-your-own-', '')}-cat">${e.innerText}</a> |`).join("\n") -->
+
 | Catégories |
 | ------ |
 | <a href="#3d-renderer-content" id="3d-renderer-cat">Rendu 3D</a> |
@@ -252,6 +254,34 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 | <a href="#web-browser-content" id="web-browser-cat">Navigateur Web</a> |
 | <a href="#web-server-content" id="web-server-cat">Serveur Web</a> |
 | <a href="##uncategorized-content" id="#uncategorized-cat">Non classé</a> |
+
+<!-- Object.entries([...document.querySelectorAll('.markdown-heading:has(>h4),.markdown-heading:has(>h4)+ul li')].reduce((r, c) => {
+	if (c.tagName.toLowerCase() === 'div') {
+		r.lastKey = c.querySelector('code') ? c.querySelector('code').innerText : c.innerText;
+		r.items[r.lastKey] = [];
+	}
+	else {
+		r.items[r.lastKey].push({
+			language: c.querySelector('strong').innerText,
+			title: c.querySelector('em') ? c.querySelector('em').innerText : c.querySelector('font').innerText,
+			link: c.querySelector('a').getAttribute('href')
+		});
+	}
+	return r;
+}, {items: {}, lastKey: ''}).items).reduce((r, [category, tutos], i) => [
+		...r,
+		`	<tr>
+		<th colspan=2" id="${category.replace(/ |\//g, '-').toLowerCase()}-content">${category}</th>
+	</tr>`,
+		...tutos.map(t => `	<tr>
+		<td>
+			<strong>${t.language}</strong>
+		</td>
+		<td>
+			<a href="${t.link}">${t.title}</a>
+		</td>
+	</tr>`)
+], []).join("\n") -->
 
 <table>
 	<tr>
