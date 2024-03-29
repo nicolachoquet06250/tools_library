@@ -3682,7 +3682,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 	<tr>
 		<td>PHP</td>
-		<td><a href="http://nand2tetris.org/">(tous) : De la NAND à Tetris : construire un ordinateur moderne à partir des premiers principes</a></td>
+		<td><a href="http://nand2tetris.org/">De la NAND à Tetris : construire un ordinateur moderne à partir des premiers principes</a></td>
 	</tr>
 </table>
 
