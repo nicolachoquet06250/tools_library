@@ -271,7 +271,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 }, {items: {}, lastKey: ''}).items).reduce((r, [category, tutos], i) => [
 		...r,
 		`	<tr>
-		<th colspan=2" id="${category.replace(/ |\//g, '-').toLowerCase()}-content">${category}</th>
+		<th colspan=2" id="${category.replace(/ |\//g, '-').toLowerCase().replace(/---/g, '--')}-content">${category}</th>
 	</tr>`,
 		...tutos.map(t => `	<tr>
 		<td>
@@ -3179,6 +3179,462 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 </table>
 
+## [Build your own X in Rust (osynavets/build-your-own-x-in-rust)](https://github.com/osynavets/build-your-own-x-in-rust)
+
+| Catégories |
+| ------ |
+| <a href="#algorithms--data-structures-content" id="algorithms--data-structures-rust-cat">Algorithmes / Structures de données</a> |
+| <a href="#bot-rust-content" id="bot-rust-cat">Bot</a> |
+| <a href="#blockchain-rust-content" id="blockchain-rust-cat">Chaîne de blocs</a> |
+| <a href="#database-rust-content" id="database-rust-cat">Base de données</a> |
+| <a href="#embedded-system-rust-content" id="embedded-system-rust-cat">Système embarqué</a> |
+| <a href="#file-system-rust-content" id="file-system-rust-cat">Système de fichiers</a> |
+| <a href="#game-rust-content" id="game-rust-cat">Jeu</a> |
+| <a href="#garbage-collector-rust-content" id="garbage-collector-rust-cat">Garbage collector</a> |
+| <a href="#network-stack-rust-content" id="network-stack-rust-cat">Pile réseau</a> |
+| <a href="#operating-system-rust-content" id="operating-system-rust-cat">Système opérateur</a> |
+| <a href="#programming-language-rust-content" id="programming-language-rust-cat">Langage de programmation</a> |
+| <a href="#shell-rust-content" id="shell-rust-cat">Shell</a> |
+| <a href="#video-codecs-rust-content" id="video-codecs-rust-cat">Codecs vidéo</a> |
+| <a href="#virtual-machine-rust-content" id="virtual-machine-rust-cat">Machine virtuelle</a> |
+| <a href="#uncategorized-rust-content" id="uncategorized-rust-cat">Non classé</a> |
+
+<table>
+	<tr>
+		<th>Langage</th>
+		<th>Tutoriel</th>
+	</tr>
+	<tr>
+		<th colspan=2" id="algorithms--data-structures-rust-content"><a href="#algorithms--data-structures-rust-cat">Algorithmes / Structures de données</a></th>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter/">Implémentons un filtre Bloom</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://www.youtube.com/playlist?list=PLqbS7AVVErFj824-6QgnK_Za1187rNfnl">ConcurrentHashMap de Java dans Rust</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://www.youtube.com/watch?v=k6xR2kf9hlA">Codage en direct d'une carte de hachage liée dans Rust</a>
+		</td>
+	</tr>
+	<tr>
+		<th colspan=2" id="bot-rust-content"><a href="#bot-rust-cat">Bot</a></th>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://habr.com/en/post/436254/">Un bot pour Starcraft en Rust, C ou tout autre langage</a>
+		</td>
+	</tr>
+	<tr>
+		<th colspan=2" id="blockchain-rust-content"><a href="#blockchain-rust-cat">Blockchain</a></th>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://www.youtube.com/playlist?list=PLwnSaD6BDfXL0RiKT_5nOIdxTxZWpPtAv">Créez une crypto-monnaie ! - Blockchain dans Rust</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://hackernoon.com/building-a-blockchain-in-rust-and-substrate-a-step-by-step-guide-for-developers-kc223ybp">Construire une blockchain dans Rust & Substrat</a>
+		</td>
+	</tr>
+	<tr>
+		<th colspan=2" id="database-rust-content"><a href="#database-rust-cat">Base de données</a></th>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://samrat.me/posts/2017-11-04-kvstore-linear-hashing/">Implémentation d'un magasin clé-valeur</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://tokio.rs/tokio/tutorial">Construire un client et un serveur Redis</a>
+		</td>
+	</tr>
+	<tr>
+		<th colspan=2" id="embedded-system-rust-content"><a href="#embedded-system-rust-cat">Système embarqué</a></th>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://mabez.dev/blog/posts/esp32-rust/">Rouille sur l'ESP32</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://mabez.dev/blog/posts/esp-rust-espressif/">Rouille sur les chips Espressif</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials">Système d'exploitation Raspberry Pi</a>
+		</td>
+	</tr>
+	<tr>
+		<th colspan=2" id="file-system-rust-content"><a href="#file-system-rust-cat">Système de fichier</a></th>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html">Écrire un système de fichiers à partir de zéro dans Rust</a>
+		</td>
+	</tr>
+	<tr>
+		<th colspan=2" id="game-rust-content"><a href="#game-rust-cat">Jeu</a></th>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://grantshandy.github.io/posts/raycasting/">Écrivez un jeu à la première personne en 2 Ko avec Rust</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://a5huynh.github.io/posts/2018/adventures-in-rust/">Adventures in Rust : un jeu 2D de base</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://tomassedovic.github.io/roguelike-tutorial/">Tutoriel Roguelike dans Rust + tcod</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://bfnightly.bracketproductions.com/">Tutoriel Roguelike - Dans Rust + RLTK</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://rustwasm.github.io/docs/book/game-of-life/introduction.html#tutorial-conways-game-of-life">Le jeu de la vie de Conway dans Rust et WebAssembly</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://tetra.seventeencups.net/tutorial/">Créer un clone de Pong avec Rust et Tetra</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://sokoban.iolivia.me/c01-00-intro.html">Sokoban rouille</a>
+		</td>
+	</tr>
+	<tr>
+		<th colspan=2" id="garbage-collector-rust-content"><a href="#garbage-collector-rust-cat">Garbage collector</a></th>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://manishearth.github.io/blog/2015/09/01/designing-a-gc-in-rust/">Concevoir un GC dans Rust</a>
+		</td>
+	</tr>
+	<tr>
+		<th colspan=2" id="network-stack-rust-content"><a href="#network-stack-rust-cat">Pille Réseau</a></th>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://github.com/EmilHernvall/dnsguide/blob/master/README.md">Construire un serveur DNS dans Rust</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html">Écrire un service de chat évolutif à partir de zéro</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://fasterthanli.me/series/making-our-own-ping">Faire notre propre ping</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://www.youtube.com/watch?v=bzja9fQWzdA">Implémentation de TCP dans Rust</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://www.youtube.com/watch?v=RBQwZthJjoM&list=PLqbS7AVVErFjzlF3JSwzxttE1G0awWimV">Codage en direct d'une caisse Rust pour les connexions SSH asynchrones</a>
+		</td>
+	</tr>
+	<tr>
+		<th colspan=2" id="operating-system-rust-content"><a href="#operating-system-rust-cat">Système d'exploitation</a></th>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://os.phil-opp.com/">Écrire un système d'exploitation dans Rust</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="http://intermezzos.github.io/">intermezzOS - système d'exploitation pédagogique</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="http://osblog.stephenmarz.com/">Les aventures du système d'exploitation : créer un système d'exploitation RISC-V avec Rust</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://gil0mendes.io/blog/2020/08/an-efi-app-a-bit-rusty">Créer une application UEFI dans Rust</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="#build-your-own-embedded-system">voir également </a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://itnext.io/container-runtime-in-rust-part-0-7af709415cda">Exécution de conteneur compatible OCI dans Rust</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://betrusted.io/xous-book/title-page.html">Le système d'exploitation Xous - un système d'exploitation de transmission de messages à micro-noyau écrit en pur Rust</a>
+		</td>
+	</tr>
+	<tr>
+		<th colspan=2" id="programming-language-rust-content"><a href="#programming-language-rust-cat">Langage de programmation</a></th>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://blog.subnetzero.io/post/building-language-vm-part-00/">Vous voulez donc créer une machine virtuelle de langage</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://bodil.lol/parser-combinators/">Apprendre les combinateurs d’analyseurs avec Rust</a>
+		</td>
+	</tr>
+	<tr>
+		<th colspan=2" id="shell-rust-content"><a href="#shell-rust-cat">Shell</a></th>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://www.joshmcguigan.com/blog/build-your-own-shell-rust/">Construisez votre propre shell en utilisant Rust</a>
+		</td>
+	</tr>
+	<tr>
+		<th colspan=2" id="video-codecs-rust-content"><a href="#video-codecs-rust-cat">Codecs Video</a></th>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://blog.tempus-ex.com/hello-video-codec/">Bonjour, Codec vidéo. En implémenter un à partir de zéro</a>
+		</td>
+	</tr>
+	<tr>
+		<th colspan=2" id="virtual-machine-rust-content"><a href="#virtual-machine-rust-cat">Machine Virtuelle</a></th>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://justinmeiners.github.io/lc3-vm/">Écrivez votre propre machine virtuelle</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://litchipi.github.io/series/container_in_rust">Écrire un conteneur dans Rust</a>
+		</td>
+	</tr>
+	<tr>
+		<th colspan=2" id="uncategorized-rust-content"><a href="#uncategorized-rust-cat">Non classé</a></th>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html">Créons un moteur de navigateur</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://nelari.us/post/raytracer_with_rust_and_zig/#implementing-the-ray-tracer">Écrire un petit traceur de rayons dans Rust et Zig</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://suhr.github.io/gsgt/">Graphiques par carrés : un didacticiel Gfx-rs</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://fasterthanli.me/series/making-our-own-executable-packer">Créer notre propre packer exécutable</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://cfsamson.github.io/books-futures-explained/6_future_example.html">Implémentez votre propre fil vert</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://www.youtube.com/playlist?list=PLqbS7AVVErFimAvMW-kIJUwxpPvcPBCsz">Portage de Flamegraph vers Rust</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://www.youtube.com/playlist?list=PLqbS7AVVErFg_DTNScO6_XHGUN9Fs1-bA">Client asynchrone ZooKeeper dans Rust</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://dpbriggs.ca/blog/Implementing-A-Copyless-Redis-Protocol-in-Rust-With-Parsing-Combinators">Implémentation d'un protocole Redis sans copie dans Rust avec des combinateurs d'analyse</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://www.philippflenker.com/hecto/">Hecto : créez votre propre éditeur de texte dans Rust</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>Rust</strong>
+		</td>
+		<td>
+			<a href="https://jesselawson.org/rust/getting-started-with-rust-by-building-a-tiny-markdown-compiler/">Construire un petit compilateur Markdown</a>
+		</td>
+	</tr>
+</table>
+
 ## Veille
 
 ### Les APIs
@@ -3195,8 +3651,6 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 > PS : C'est publique et ouvert à tous donc n'hésitez pas à faire une MR si vous avez d'autre sites de veille, outils, idées d'app à dev pour les devs juniors ou juste pour apprendre un langage, liens de tutos d'outils à dev sois même dans différents languages, ou même des liens vers des challanges de prog peux importe le langage ça interessera toujours des personnes si bien évidement ils ne sont pas déja présent ici 😉
 
 ## Autres liens prévus à rajouter
-- https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file
-- https://github.com/osynavets/build-your-own-x-in-rust
 - https://github.com/buhe/build-your-own-x-zh
 - https://github.com/akondas/build-your-own-x-in-php
 - https://tsch.js.org/
