@@ -1,3 +1,5 @@
+<span id="top"></span>
+
 # Tools Library
 
 Constitution d'une liste d'outils, répos, d'idées d'apps, challanges ou tout autre ressource pour s'améliorer en programmation peux importe son niveau
@@ -3714,3 +3716,5 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 ---
  
 > PS : C'est publique et ouvert à tous donc n'hésitez pas à faire une MR si vous avez d'autre sites de veille, outils, idées d'app à dev pour les devs juniors ou juste pour apprendre un langage, liens de tutos d'outils à dev sois même dans différents languages, ou même des liens vers des challanges de prog peux importe le langage ça interessera toujours des personnes si bien évidement ils ne sont pas déja présent ici 😉
+
+<a href="#top"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="up-arrow" width="50px"><g data-name="Layer 2"><path fill="white" d="M12 22A10 10 0 1 0 2 12a10 10 0 0 0 10 10zM8.31 10.14l3-2.86a.49.49 0 0 1 .15-.1.54.54 0 0 1 .16-.1.94.94 0 0 1 .76 0 1 1 0 0 1 .33.21l3 3a1 1 0 0 1-1.42 1.42L13 10.41V16a1 1 0 0 1-2 0v-5.66l-1.31 1.25a1 1 0 0 1-1.38-1.45z" data-name="arrow-circle-up"></path></g></svg></a>
