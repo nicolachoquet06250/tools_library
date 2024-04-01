@@ -3750,208 +3750,127 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 	<tr>
 		<td>
-			<img src="https://img.shields.io/badge/PHP-000?logo=php&logoColor=pin#gh-dark-mode-only" alt="php">
-			<img src="https://img.shields.io/badge/PHP-000?logo=php&logoColor=pin#gh-light-mode-only" alt="php">
+			<img src="https://img.shields.io/badge/php-fff?logo=php&logoColor=pin" alt="php">
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/composer-000?logo=composer&logoColor=pin#gh-dark-mode-only" alt="composer">
 			<img src="https://img.shields.io/badge/composer-000?logo=composer&logoColor=pin#gh-light-mode-only" alt="composer">
 		</td>
 		<td>
-			<img src="https://img.shields.io/badge/web-fff#gh-light-mode-only" 
-				 alt="web">
 			<img src="https://img.shields.io/badge/web-000#gh-dark-mode-only" 
 				 alt="web">
-			<img src="https://img.shields.io/badge/back-fff#gh-light-mode-only" 
-				 alt="back">
 			<img src="https://img.shields.io/badge/back-000#gh-dark-mode-only" 
 				 alt="back">
-			<img src="https://img.shields.io/badge/scripting-fff#gh-light-mode-only" 
-				 alt="scripting">
 			<img src="https://img.shields.io/badge/scripting-000#gh-dark-mode-only" 
 				 alt="scripting">
-			<img src="https://img.shields.io/badge/interprété-fff#gh-light-mode-only" 
-				 alt="interprété">
 			<img src="https://img.shields.io/badge/interprété-000#gh-dark-mode-only" 
 				 alt="interprété">
-			<img src="https://img.shields.io/badge/multiparadigme-fff#gh-light-mode-only" 
-				 alt="multiparadigme">
 			<img src="https://img.shields.io/badge/multiparadigme-000#gh-dark-mode-only" 
 				 alt="multiparadigme">
-			<img src="https://img.shields.io/badge/fonctionnel-fff#gh-light-mode-only" 
-				 alt="fonctionnel">
 			<img src="https://img.shields.io/badge/fonctionnel-000#gh-dark-mode-only" 
 				 alt="fonctionnel">
-			<img src="https://img.shields.io/badge/procédurale-fff#gh-light-mode-only" 
-				 alt="procédurale">
 			<img src="https://img.shields.io/badge/procédurale-000#gh-dark-mode-only" 
 				 alt="procédurale">
-			<img src="https://img.shields.io/badge/orientée_objet-fff#gh-light-mode-only" 
-				 alt="orientée objet">
 			<img src="https://img.shields.io/badge/orientée_objet-000#gh-dark-mode-only" 
 				 alt="orientée objet">
-			<img src="https://img.shields.io/badge/typage_dynamique-fff#gh-light-mode-only" 
-				 alt="typage dynamique">
 			<img src="https://img.shields.io/badge/typage_dynamique-000#gh-dark-mode-only" 
 				 alt="typage dynamique">
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=pin#gh-dark-mode-only" alt="JavaScript">
-			<img src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=pin#gh-light-mode-only" alt="JavaScript">
+			<img src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=pin" alt="JavaScript">
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/npm-000?logo=npm&logoColor=pin#gh-dark-mode-only" alt="componpmer">
 			<img src="https://img.shields.io/badge/npm-000?logo=npm&logoColor=pin#gh-light-mode-only" alt="npm">
 		</td>
 		<td>
-			<img src="https://img.shields.io/badge/web-fff#gh-light-mode-only" 
-				 alt="web">
 			<img src="https://img.shields.io/badge/web-000#gh-dark-mode-only" 
 				 alt="web">
-			<img src="https://img.shields.io/badge/back-fff#gh-light-mode-only" 
-				 alt="back">
 			<img src="https://img.shields.io/badge/back-000#gh-dark-mode-only" 
 				 alt="back">
-			<img src="https://img.shields.io/badge/front-fff#gh-light-mode-only" 
-				 alt="front">
 			<img src="https://img.shields.io/badge/front-000#gh-dark-mode-only" 
 				 alt="front">
-			<img src="https://img.shields.io/badge/scripting-fff#gh-light-mode-only" 
-				 alt="scripting">
 			<img src="https://img.shields.io/badge/scripting-000#gh-dark-mode-only" 
 				 alt="scripting">
-			<img src="https://img.shields.io/badge/interprété-fff#gh-light-mode-only" 
-				 alt="interprété">
 			<img src="https://img.shields.io/badge/interprété-000#gh-dark-mode-only" 
 				 alt="interprété">
-			<img src="https://img.shields.io/badge/multiparadigme-fff#gh-light-mode-only" 
-				 alt="multiparadigme">
 			<img src="https://img.shields.io/badge/multiparadigme-000#gh-dark-mode-only" 
 				 alt="multiparadigme">
-			<img src="https://img.shields.io/badge/fonctionnel-fff#gh-light-mode-only" 
-				 alt="fonctionnel">
 			<img src="https://img.shields.io/badge/fonctionnel-000#gh-dark-mode-only" 
 				 alt="fonctionnel">
-			<img src="https://img.shields.io/badge/procédurale-fff#gh-light-mode-only" 
-				 alt="procédurale">
 			<img src="https://img.shields.io/badge/procédurale-000#gh-dark-mode-only" 
 				 alt="procédurale">
-			<img src="https://img.shields.io/badge/orientée_objet-fff#gh-light-mode-only" 
-				 alt="orientée objet">
 			<img src="https://img.shields.io/badge/orientée_objet-000#gh-dark-mode-only" 
 				 alt="orientée objet">
-			<img src="https://img.shields.io/badge/typage_dynamique-fff#gh-light-mode-only" 
-				 alt="typage dynamique">
 			<img src="https://img.shields.io/badge/typage_dynamique-000#gh-dark-mode-only" 
 				 alt="typage dynamique">
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=pin#gh-dark-mode-only" alt="TypeScript">
-			<img src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=pin#gh-light-mode-only" alt="TypeScript">
+			<img src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=pin" alt="TypeScript">
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/npm-000?logo=npm&logoColor=pin#gh-dark-mode-only" alt="componpmer">
 			<img src="https://img.shields.io/badge/npm-000?logo=npm&logoColor=pin#gh-light-mode-only" alt="npm">
 		</td>
 		<td>
-			<img src="https://img.shields.io/badge/web-fff#gh-light-mode-only" 
-				 alt="web">
 			<img src="https://img.shields.io/badge/web-000#gh-dark-mode-only" 
 				 alt="web">
-			<img src="https://img.shields.io/badge/back-fff#gh-light-mode-only" 
-				 alt="back">
 			<img src="https://img.shields.io/badge/back-000#gh-dark-mode-only" 
 				 alt="back">
-			<img src="https://img.shields.io/badge/front-fff#gh-light-mode-only" 
-				 alt="front">
 			<img src="https://img.shields.io/badge/front-000#gh-dark-mode-only" 
 				 alt="front">
-			<img src="https://img.shields.io/badge/scripting-fff#gh-light-mode-only" 
-				 alt="scripting">
 			<img src="https://img.shields.io/badge/scripting-000#gh-dark-mode-only" 
 				 alt="scripting">
-			<img src="https://img.shields.io/badge/transpileur-fff#gh-light-mode-only" 
-				 alt="transpileur">
 			<img src="https://img.shields.io/badge/transpileur-000#gh-dark-mode-only" 
 				 alt="transpileur">
-			<img src="https://img.shields.io/badge/multiparadigme-fff#gh-light-mode-only" 
-				 alt="multiparadigme">
 			<img src="https://img.shields.io/badge/multiparadigme-000#gh-dark-mode-only" 
 				 alt="multiparadigme">
-			<img src="https://img.shields.io/badge/fonctionnel-fff#gh-light-mode-only" 
-				 alt="fonctionnel">
 			<img src="https://img.shields.io/badge/fonctionnel-000#gh-dark-mode-only" 
 				 alt="fonctionnel">
-			<img src="https://img.shields.io/badge/procédurale-fff#gh-light-mode-only" 
-				 alt="procédurale">
 			<img src="https://img.shields.io/badge/procédurale-000#gh-dark-mode-only" 
 				 alt="procédurale">
-			<img src="https://img.shields.io/badge/orientée_objet-fff#gh-light-mode-only" 
-				 alt="orientée objet">
 			<img src="https://img.shields.io/badge/orientée_objet-000#gh-dark-mode-only" 
 				 alt="orientée objet">
-			<img src="https://img.shields.io/badge/typage_statique_fort-fff#gh-light-mode-only" 
-				 alt="typage statique fort">
 			<img src="https://img.shields.io/badge/typage_statique_fort-000#gh-dark-mode-only" 
 				 alt="typage statique fort">
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="https://img.shields.io/badge/Python-000?logo=python&logoColor=pin#gh-dark-mode-only" alt="Python">
-			<img src="https://img.shields.io/badge/Python-000?logo=python&logoColor=pin#gh-light-mode-only" alt="Python">
+			<img src="https://img.shields.io/badge/Python-000?logo=python&logoColor=pin" alt="Python">
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/pip-000?logo=python&logoColor=pin#gh-dark-mode-only" alt="pip">
 			<img src="https://img.shields.io/badge/pip-000?logo=python&logoColor=pin#gh-light-mode-only" alt="pip">
 		</td>
 		<td>
-			<img src="https://img.shields.io/badge/web-fff#gh-light-mode-only" 
-				 alt="web">
 			<img src="https://img.shields.io/badge/web-000#gh-dark-mode-only" 
 				 alt="web">
-			<img src="https://img.shields.io/badge/back-fff#gh-light-mode-only" 
-				 alt="back">
 			<img src="https://img.shields.io/badge/back-000#gh-dark-mode-only" 
 				 alt="back">
-			<img src="https://img.shields.io/badge/scripting-fff#gh-light-mode-only" 
-				 alt="scripting">
 			<img src="https://img.shields.io/badge/scripting-000#gh-dark-mode-only" 
 				 alt="scripting">
-			<img src="https://img.shields.io/badge/interprété-fff#gh-light-mode-only" 
-				 alt="interprété">
 			<img src="https://img.shields.io/badge/interprété-000#gh-dark-mode-only" 
 				 alt="interprété">
-			<img src="https://img.shields.io/badge/multiparadigme-fff#gh-light-mode-only" 
-				 alt="multiparadigme">
 			<img src="https://img.shields.io/badge/multiparadigme-000#gh-dark-mode-only" 
 				 alt="multiparadigme">
-			<img src="https://img.shields.io/badge/fonctionnel-fff#gh-light-mode-only" 
-				 alt="fonctionnel">
 			<img src="https://img.shields.io/badge/fonctionnel-000#gh-dark-mode-only" 
 				 alt="fonctionnel">
-			<img src="https://img.shields.io/badge/procédurale-fff#gh-light-mode-only" 
-				 alt="procédurale">
 			<img src="https://img.shields.io/badge/procédurale-000#gh-dark-mode-only" 
 				 alt="procédurale">
-			<img src="https://img.shields.io/badge/orientée_objet-fff#gh-light-mode-only" 
-				 alt="orientée objet">
 			<img src="https://img.shields.io/badge/orientée_objet-000#gh-dark-mode-only" 
 				 alt="orientée objet">
-			<img src="https://img.shields.io/badge/typage_statique_fort-fff#gh-light-mode-only" 
-				 alt="typage statique fort">
 			<img src="https://img.shields.io/badge/typage_statique_fort-000#gh-dark-mode-only" 
 				 alt="typage statique fort">
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="https://img.shields.io/badge/Reason-000?logo=reason&logoColor=pin#gh-dark-mode-only" alt="Reason">
-			<img src="https://img.shields.io/badge/Reason-000?logo=reason&logoColor=pin#gh-light-mode-only" alt="Reason">
+			<img src="https://img.shields.io/badge/Reason-000?logo=reason&logoColor=pin" alt="Reason">
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/npm-000?logo=npm&logoColor=pin#gh-dark-mode-only" alt="npm">
@@ -3960,360 +3879,227 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 			<img src="https://img.shields.io/badge/opam-000?logo=ocaml&logoColor=pin#gh-light-mode-only" alt="opam">
 		</td>
 		<td>
-			<img src="https://img.shields.io/badge/web-fff#gh-light-mode-only" 
-				 alt="web">
 			<img src="https://img.shields.io/badge/web-000#gh-dark-mode-only" 
 				 alt="web">
-			<img src="https://img.shields.io/badge/back-fff#gh-light-mode-only" 
-				 alt="back">
 			<img src="https://img.shields.io/badge/back-000#gh-dark-mode-only" 
 				 alt="back">
-			<img src="https://img.shields.io/badge/scripting-fff#gh-light-mode-only" 
-				 alt="scripting">
 			<img src="https://img.shields.io/badge/scripting-000#gh-dark-mode-only" 
 				 alt="scripting">
-			<img src="https://img.shields.io/badge/JavaScript-fff#gh-light-mode-only" 
-				 alt="JavaScript">
 			<img src="https://img.shields.io/badge/JavaScript-000#gh-dark-mode-only" 
 				 alt="JavaScript">
-			<img src="https://img.shields.io/badge/Ocaml-fff#gh-light-mode-only" 
-				 alt="Ocaml">
 			<img src="https://img.shields.io/badge/Ocaml-000#gh-dark-mode-only" 
 				 alt="Ocaml">
-			<img src="https://img.shields.io/badge/transpilé-fff#gh-light-mode-only" 
-				 alt="transpilé">
 			<img src="https://img.shields.io/badge/transpilé-000#gh-dark-mode-only" 
 				 alt="transpilé">
-			<img src="https://img.shields.io/badge/fonctionnel-fff#gh-light-mode-only" 
-				 alt="fonctionnel">
 			<img src="https://img.shields.io/badge/fonctionnel-000#gh-dark-mode-only" 
 				 alt="fonctionnel">
-			<img src="https://img.shields.io/badge/typage_statique_fort-fff#gh-light-mode-only" 
-				 alt="typage statique fort">
 			<img src="https://img.shields.io/badge/typage_statique_fort-000#gh-dark-mode-only" 
 				 alt="typage statique fort">
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="https://img.shields.io/badge/Elm-000?logo=elm&logoColor=pin#gh-dark-mode-only" alt="Elm">
-			<img src="https://img.shields.io/badge/Elm-000?logo=elm&logoColor=pin#gh-light-mode-only" alt="Elm">
+			<img src="https://img.shields.io/badge/Elm-000?logo=elm&logoColor=pin" alt="Elm">
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/elm_get-000?logo=elm&logoColor=pin#gh-dark-mode-only" alt="elm">
 			<img src="https://img.shields.io/badge/elm_get-000?logo=elm&logoColor=pin#gh-light-mode-only" alt="elm">
 		</td>
 		<td>
-			<img src="https://img.shields.io/badge/web-fff#gh-light-mode-only" 
-				 alt="web">
 			<img src="https://img.shields.io/badge/web-000#gh-dark-mode-only" 
 				 alt="web">
-			<img src="https://img.shields.io/badge/front-fff#gh-light-mode-only" 
-				 alt="front">
 			<img src="https://img.shields.io/badge/front-000#gh-dark-mode-only" 
 				 alt="front">
-			<img src="https://img.shields.io/badge/mvc-fff#gh-light-mode-only" 
-				 alt="mvc">
 			<img src="https://img.shields.io/badge/mvc-000#gh-dark-mode-only" 
 				 alt="mvc">
-			<img src="https://img.shields.io/badge/transpilé-fff#gh-light-mode-only" 
-				 alt="transpilé">
 			<img src="https://img.shields.io/badge/transpilé-000#gh-dark-mode-only" 
 				 alt="transpilé">
-			<img src="https://img.shields.io/badge/fonctionnel-fff#gh-light-mode-only" 
-				 alt="fonctionnel">
 			<img src="https://img.shields.io/badge/fonctionnel-000#gh-dark-mode-only" 
 				 alt="fonctionnel">
-			<img src="https://img.shields.io/badge/typage_statique_fort-fff#gh-light-mode-only" 
-				 alt="typage statique fort">
 			<img src="https://img.shields.io/badge/typage_statique_fort-000#gh-dark-mode-only" 
 				 alt="typage statique fort">
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="https://img.shields.io/badge/Purescript-000?logo=purescript&logoColor=pin#gh-dark-mode-only" alt="Purescript">
-			<img src="https://img.shields.io/badge/Purescript-000?logo=purescript&logoColor=pin#gh-light-mode-only" alt="Purescript">
+			<img src="https://img.shields.io/badge/Purescript-000?logo=purescript&logoColor=pin" alt="Purescript">
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/npm-000?logo=npm&logoColor=pin#gh-dark-mode-only" alt="npm">
 			<img src="https://img.shields.io/badge/npm-000?logo=npm&logoColor=pin#gh-light-mode-only" alt="npm">
 		</td>
 		<td>
-			<img src="https://img.shields.io/badge/web-fff#gh-light-mode-only" 
-				 alt="web">
 			<img src="https://img.shields.io/badge/web-000#gh-dark-mode-only" 
 				 alt="web">
-			<img src="https://img.shields.io/badge/front-fff#gh-light-mode-only" 
-				 alt="front">
 			<img src="https://img.shields.io/badge/front-000#gh-dark-mode-only" 
 				 alt="front">
-			<img src="https://img.shields.io/badge/mvc-fff#gh-light-mode-only" 
-				 alt="mvc">
 			<img src="https://img.shields.io/badge/mvc-000#gh-dark-mode-only" 
 				 alt="mvc">
-			<img src="https://img.shields.io/badge/transpilé-fff#gh-light-mode-only" 
-				 alt="transpilé">
 			<img src="https://img.shields.io/badge/transpilé-000#gh-dark-mode-only" 
 				 alt="transpilé">
-			<img src="https://img.shields.io/badge/fonctionnel-fff#gh-light-mode-only" 
-				 alt="fonctionnel">
 			<img src="https://img.shields.io/badge/fonctionnel-000#gh-dark-mode-only" 
 				 alt="fonctionnel">
-			<img src="https://img.shields.io/badge/typage_statique_fort-fff#gh-light-mode-only" 
-				 alt="typage statique fort">
 			<img src="https://img.shields.io/badge/typage_statique_fort-000#gh-dark-mode-only" 
 				 alt="typage statique fort">
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="https://img.shields.io/badge/ReScript-000?logo=rescript&logoColor=pin#gh-dark-mode-only" alt="ReScript">
-			<img src="https://img.shields.io/badge/ReScript-000?logo=rescript&logoColor=pin#gh-light-mode-only" alt="ReScript">
+			<img src="https://img.shields.io/badge/ReScript-000?logo=rescript&logoColor=pin" alt="ReScript">
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/npm-000?logo=npm&logoColor=pin#gh-dark-mode-only" alt="npm">
 			<img src="https://img.shields.io/badge/npm-000?logo=npm&logoColor=pin#gh-light-mode-only" alt="npm">
 		</td>
 		<td>
-			<img src="https://img.shields.io/badge/web-fff#gh-light-mode-only" 
-				 alt="web">
 			<img src="https://img.shields.io/badge/web-000#gh-dark-mode-only" 
 				 alt="web">
-			<img src="https://img.shields.io/badge/front-fff#gh-light-mode-only" 
-				 alt="front">
 			<img src="https://img.shields.io/badge/front-000#gh-dark-mode-only" 
 				 alt="front">
-			<img src="https://img.shields.io/badge/react-fff#gh-light-mode-only" 
-				 alt="react">
 			<img src="https://img.shields.io/badge/react-000#gh-dark-mode-only" 
 				 alt="react">
-			<img src="https://img.shields.io/badge/transpilé-fff#gh-light-mode-only" 
-				 alt="transpilé">
 			<img src="https://img.shields.io/badge/transpilé-000#gh-dark-mode-only" 
 				 alt="transpilé">
-			<img src="https://img.shields.io/badge/fonctionnel-fff#gh-light-mode-only" 
-				 alt="fonctionnel">
 			<img src="https://img.shields.io/badge/fonctionnel-000#gh-dark-mode-only" 
 				 alt="fonctionnel">
-			<img src="https://img.shields.io/badge/typage_statique_fort-fff#gh-light-mode-only" 
-				 alt="typage statique fort">
 			<img src="https://img.shields.io/badge/typage_statique_fort-000#gh-dark-mode-only" 
 				 alt="typage statique fort">
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="https://img.shields.io/badge/Imba-000?logo=javascript&logoColor=pin#gh-dark-mode-only" alt="Imba">
-			<img src="https://img.shields.io/badge/Imba-000?logo=javascript&logoColor=pin#gh-light-mode-only" alt="Imba">
+			<img src="https://img.shields.io/badge/Imba-000?logo=javascript&logoColor=pin" alt="Imba">
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/npm-000?logo=npm&logoColor=pin#gh-dark-mode-only" alt="npm">
 			<img src="https://img.shields.io/badge/npm-000?logo=npm&logoColor=pin#gh-light-mode-only" alt="npm">
 		</td>
 		<td>
-			<img src="https://img.shields.io/badge/web-fff#gh-light-mode-only" 
-				 alt="web">
 			<img src="https://img.shields.io/badge/web-000#gh-dark-mode-only" 
 				 alt="web">
-			<img src="https://img.shields.io/badge/front-fff#gh-light-mode-only" 
-				 alt="front">
 			<img src="https://img.shields.io/badge/front-000#gh-dark-mode-only" 
 				 alt="front">
-			<img src="https://img.shields.io/badge/transpilé-fff#gh-light-mode-only" 
-				 alt="transpilé">
 			<img src="https://img.shields.io/badge/transpilé-000#gh-dark-mode-only" 
 				 alt="transpilé">
-			<img src="https://img.shields.io/badge/fonctionnel-fff#gh-light-mode-only" 
-				 alt="fonctionnel">
 			<img src="https://img.shields.io/badge/fonctionnel-000#gh-dark-mode-only" 
 				 alt="fonctionnel">
-			<img src="https://img.shields.io/badge/typage_statique_fort-fff#gh-light-mode-only" 
-				 alt="typage statique fort">
 			<img src="https://img.shields.io/badge/typage_statique_fort-000#gh-dark-mode-only" 
 				 alt="typage statique fort">
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="https://img.shields.io/badge/Elixir-000?logo=elixir&logoColor=pin#gh-dark-mode-only" alt="Elixir">
-			<img src="https://img.shields.io/badge/Elixir-000?logo=elixir&logoColor=pin#gh-light-mode-only" alt="Elixir">
+			<img src="https://img.shields.io/badge/Elixir-000?logo=elixir&logoColor=pin" alt="Elixir">
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/hex-000?logo=erlang&logoColor=pin#gh-dark-mode-only" alt="hex">
 			<img src="https://img.shields.io/badge/hex-000?logo=erlang&logoColor=pin#gh-light-mode-only" alt="hex">
 		</td>
 		<td>
-			<img src="https://img.shields.io/badge/web-fff#gh-light-mode-only" 
-				 alt="web">
 			<img src="https://img.shields.io/badge/web-000#gh-dark-mode-only" 
 				 alt="web">
-			<img src="https://img.shields.io/badge/front-fff#gh-light-mode-only" 
-				 alt="front">
 			<img src="https://img.shields.io/badge/front-000#gh-dark-mode-only" 
 				 alt="front">
-			<img src="https://img.shields.io/badge/back-fff#gh-light-mode-only" 
-				 alt="back">
 			<img src="https://img.shields.io/badge/back-000#gh-dark-mode-only" 
 				 alt="back">
-			<img src="https://img.shields.io/badge/interprété-fff#gh-light-mode-only" 
-				 alt="interprété">
 			<img src="https://img.shields.io/badge/interprété-000#gh-dark-mode-only" 
 				 alt="interprété">
-			<img src="https://img.shields.io/badge/fonctionnel-fff#gh-light-mode-only" 
-				 alt="fonctionnel">
 			<img src="https://img.shields.io/badge/fonctionnel-000#gh-dark-mode-only" 
 				 alt="fonctionnel">
-			<img src="https://img.shields.io/badge/typage_statique_fort-fff#gh-light-mode-only" 
-				 alt="typage statique fort">
 			<img src="https://img.shields.io/badge/typage_statique_fort-000#gh-dark-mode-only" 
 				 alt="typage statique fort">
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="https://img.shields.io/badge/Dart-000?logo=dart&logoColor=pin#gh-dark-mode-only" alt="Dart">
-			<img src="https://img.shields.io/badge/Dart-000?logo=dart&logoColor=pin#gh-light-mode-only" alt="Dart">
+			<img src="https://img.shields.io/badge/Dart-000?logo=dart&logoColor=pin" alt="Dart">
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/pub-000?logo=dart&logoColor=pin#gh-dark-mode-only" alt="pub">
 			<img src="https://img.shields.io/badge/pub-000?logo=dart&logoColor=pin#gh-light-mode-only" alt="pub">
 		</td>
 		<td>
-			<img src="https://img.shields.io/badge/web-fff#gh-light-mode-only" 
-				 alt="web">
 			<img src="https://img.shields.io/badge/web-000#gh-dark-mode-only" 
 				 alt="web">
-			<img src="https://img.shields.io/badge/mobile-fff#gh-light-mode-only" 
-				 alt="mobile">
 			<img src="https://img.shields.io/badge/mobile-000#gh-dark-mode-only" 
 				 alt="mobile">
-			<img src="https://img.shields.io/badge/desktop-fff#gh-light-mode-only" 
-				 alt="desktop">
 			<img src="https://img.shields.io/badge/desktop-000#gh-dark-mode-only" 
 				 alt="desktop">
-			<img src="https://img.shields.io/badge/compilé-fff#gh-light-mode-only" 
-				 alt="compilé">
 			<img src="https://img.shields.io/badge/compilé-000#gh-dark-mode-only" 
 				 alt="compilé">
-			<img src="https://img.shields.io/badge/déclaratif-fff#gh-light-mode-only" 
-				 alt="déclaratif">
 			<img src="https://img.shields.io/badge/déclaratif-000#gh-dark-mode-only" 
 				 alt="déclaratif">
-			<img src="https://img.shields.io/badge/typage_statique_fort-fff#gh-light-mode-only" 
-				 alt="typage statique fort">
 			<img src="https://img.shields.io/badge/typage_statique_fort-000#gh-dark-mode-only" 
 				 alt="typage statique fort">
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="https://img.shields.io/badge/Go-000?logo=go&logoColor=pin#gh-dark-mode-only" alt="Go">
-			<img src="https://img.shields.io/badge/Go-000?logo=go&logoColor=pin#gh-light-mode-only" alt="Go">
+			<img src="https://img.shields.io/badge/Go-000?logo=go&logoColor=pin" alt="Go">
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/Go-000?logo=go&logoColor=pin#gh-dark-mode-only" alt="Go">
 			<img src="https://img.shields.io/badge/Go-000?logo=go&logoColor=pin#gh-light-mode-only" alt="Go">
 		</td>
 		<td>
-			<img src="https://img.shields.io/badge/web-fff#gh-light-mode-only" 
-				 alt="web">
 			<img src="https://img.shields.io/badge/web-000#gh-dark-mode-only" 
 				 alt="web">
-			<img src="https://img.shields.io/badge/mobile-fff#gh-light-mode-only" 
-				 alt="mobile">
 			<img src="https://img.shields.io/badge/mobile-000#gh-dark-mode-only" 
 				 alt="mobile">
-			<img src="https://img.shields.io/badge/cli-fff#gh-light-mode-only" 
-				 alt="cli">
 			<img src="https://img.shields.io/badge/cli-000#gh-dark-mode-only" 
 				 alt="cli">
-			<img src="https://img.shields.io/badge/desktop-fff#gh-light-mode-only" 
-				 alt="desktop">
 			<img src="https://img.shields.io/badge/desktop-000#gh-dark-mode-only" 
 				 alt="desktop">
-			<img src="https://img.shields.io/badge/hybride-fff#gh-light-mode-only" 
-				 alt="hybride">
 			<img src="https://img.shields.io/badge/hybride-000#gh-dark-mode-only" 
 				 alt="hybride">
-			<img src="https://img.shields.io/badge/compilé-fff#gh-light-mode-only" 
-				 alt="compilé">
 			<img src="https://img.shields.io/badge/compilé-000#gh-dark-mode-only" 
 				 alt="compilé">
-			<img src="https://img.shields.io/badge/déclaratif-fff#gh-light-mode-only" 
-				 alt="déclaratif">
 			<img src="https://img.shields.io/badge/déclaratif-000#gh-dark-mode-only" 
 				 alt="déclaratif">
-			<img src="https://img.shields.io/badge/typage_statique_fort-fff#gh-light-mode-only" 
-				 alt="typage statique fort">
 			<img src="https://img.shields.io/badge/typage_statique_fort-000#gh-dark-mode-only" 
 				 alt="typage statique fort">
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="https://img.shields.io/badge/Swift-000?logo=swift&logoColor=pin#gh-dark-mode-only" alt="Go">
-			<img src="https://img.shields.io/badge/Swift-000?logo=swift&logoColor=pin#gh-light-mode-only" alt="Go">
+			<img src="https://img.shields.io/badge/Swift-000?logo=swift&logoColor=pin" alt="Go">
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/Cargo-000?logo=swift&logoColor=pin#gh-dark-mode-only" alt="SwiftPM">
 			<img src="https://img.shields.io/badge/Cargo-000?logo=swift&logoColor=pin#gh-light-mode-only" alt="SwiftPM">
 		</td>
 		<td>
-			<img src="https://img.shields.io/badge/web-fff#gh-light-mode-only" 
-				 alt="web">
 			<img src="https://img.shields.io/badge/web-000#gh-dark-mode-only" 
 				 alt="web">
-			<img src="https://img.shields.io/badge/cli-fff#gh-light-mode-only" 
-				 alt="cli">
 			<img src="https://img.shields.io/badge/cli-000#gh-dark-mode-only" 
 				 alt="cli">
-			<img src="https://img.shields.io/badge/back-fff#gh-light-mode-only" 
-				 alt="back">
 			<img src="https://img.shields.io/badge/back-000#gh-dark-mode-only" 
 				 alt="back">
-			<img src="https://img.shields.io/badge/compilé-fff#gh-light-mode-only" 
-				 alt="compilé">
 			<img src="https://img.shields.io/badge/compilé-000#gh-dark-mode-only" 
 				 alt="compilé">
-			<img src="https://img.shields.io/badge/typage_statique_fort-fff#gh-light-mode-only" 
-				 alt="typage statique fort">
 			<img src="https://img.shields.io/badge/typage_statique_fort-000#gh-dark-mode-only" 
 				 alt="typage statique fort">
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="https://img.shields.io/badge/Rust-000?logo=rust&logoColor=pin#gh-dark-mode-only" alt="Go">
-			<img src="https://img.shields.io/badge/Rust-000?logo=rust&logoColor=pin#gh-light-mode-only" alt="Go">
+			<img src="https://img.shields.io/badge/Rust-000?logo=rust&logoColor=pin" alt="Go">
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/Cargo-000?logo=rust&logoColor=pin#gh-dark-mode-only" alt="Cargo">
 			<img src="https://img.shields.io/badge/Cargo-000?logo=rust&logoColor=pin#gh-light-mode-only" alt="Cargo">
 		</td>
 		<td>
-			<img src="https://img.shields.io/badge/web-fff#gh-light-mode-only" 
-				 alt="web">
 			<img src="https://img.shields.io/badge/web-000#gh-dark-mode-only" 
 				 alt="web">
-			<img src="https://img.shields.io/badge/cli-fff#gh-light-mode-only" 
-				 alt="cli">
 			<img src="https://img.shields.io/badge/cli-000#gh-dark-mode-only" 
 				 alt="cli">
-			<img src="https://img.shields.io/badge/back-fff#gh-light-mode-only" 
-				 alt="back">
 			<img src="https://img.shields.io/badge/back-000#gh-dark-mode-only" 
 				 alt="back">
-			<img src="https://img.shields.io/badge/compilé-fff#gh-light-mode-only" 
-				 alt="compilé">
 			<img src="https://img.shields.io/badge/compilé-000#gh-dark-mode-only" 
 				 alt="compilé">
-			<img src="https://img.shields.io/badge/fonctionnel-fff#gh-light-mode-only" 
-				 alt="fonctionnel">
 			<img src="https://img.shields.io/badge/fonctionnel-000#gh-dark-mode-only" 
 				 alt="fonctionnel">
-			<img src="https://img.shields.io/badge/typage_statique_fort-fff#gh-light-mode-only" 
-				 alt="typage statique fort">
 			<img src="https://img.shields.io/badge/typage_statique_fort-000#gh-dark-mode-only" 
 				 alt="typage statique fort">
 		</td>
