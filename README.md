@@ -9,11 +9,11 @@ Constitution d'une liste d'outils, répos, d'idées d'apps, challanges ou tout a
 
 ## [App Ideas (florinpop17/app-ideas)](https://github.com/florinpop17/app-ideas/)
 
-| Niveau                       | Profile développeur                                                                                                                                                |
-| ------------------- | ------------------------------------------------------------------------------------------------------------ |
-| <span id="niveau-1">1</span> | Développeurs aux premiers stades de leur parcours d’apprentissage. Ceux qui se concentrent généralement sur la création d’applications destinées aux utilisateurs. |
+| Niveau                       | Profile développeur                                                                                                                                                                                     |
+|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <span id="niveau-1">1</span> | Développeurs aux premiers stades de leur parcours d’apprentissage. Ceux qui se concentrent généralement sur la création d’applications destinées aux utilisateurs.                                      |
 | <span id="niveau-2">2</span> | Développeurs à un stade intermédiaire d’apprentissage et d’expérience. Ils sont à l’aise avec l’UI/UX, utilisent des outils de développement et créent des applications qui utilisent les services API. |
-| <span id="niveau-3">3</span> | Développeurs qui possèdent tout ce qui précède et apprennent des techniques plus avancées telles que la mise en œuvre d'applications backend et de services de base de données. |
+| <span id="niveau-3">3</span> | Développeurs qui possèdent tout ce qui précède et apprennent des techniques plus avancées telles que la mise en œuvre d'applications backend et de services de base de données.                         |
 
 ### [Niveau 1 - Projets de niveau débutant](#niveau-1)
 
@@ -23,107 +23,107 @@ Constitution d'une liste d'outils, répos, d'idées d'apps, challanges ou tout a
 <!-- Traduit -->
 <!-- [...document.querySelector('.markdown-heading + table:nth-of-type(2) tbody').querySelectorAll('tr')].map(e => `| [${e.querySelector('a').innerText}](${window.location.href.replace('github-com.translate.goog', 'github.com').replace('/?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=fr', '')}${e.querySelector('a').getAttribute('href').replace('/florinpop17/app-ideas', '')}) | ${e.querySelectorAll('td')[1].innerText} |`).join("\n") -->
 
-| Nom de projet                                                                                                                      | Courte déscription                            |
-| --------------------------------------------------------------------------------------- | ------------------------------ |
-| [Bin2Dec](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md) | Convertisseur de nombres binaires en décimaux |
-| [Aperçu du rayon de bordure](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Border-Radius-Previewer.md) | Aperçu de la façon dont les valeurs de rayon de bordure CSS3 affectent un élément |
-| [Calculatrice](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calculator-App.md) | Calculatrice |
-| [Lumières de Noël](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Christmas-Lights-App.md) | Simulez une chaîne de lumières de Noël |
-| [Application Cause Effet](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Cause-Effect-App.md) | Cliquez sur l'élément de la liste pour afficher les détails de l'élément |
-| [Cycle de couleurs](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Color-Cycle-App.md) | Faire défiler une valeur de couleur à travers des changements incrémentiels |
-| [Compte à rebours](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Countdown-Timer-App.md) | Compte à rebours d'événement |
-| [Application CSV2JSON](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/CSV2JSON-App.md) | Convertisseur CSV en JSON |
-| [Dollars en Cents](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Dollars-To-Cents-App.md) | Convertir des dollars en centimes |
-| [Variables CSS dynamiques](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Dynamic-CSSVar-app.md) | Modifier dynamiquement les paramètres des variables CSS |
-| [Première application de base de données](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/First-DB-App.md) | Votre première application de base de données ! |
-| [Retourner l'image](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Flip-Image-App.md) | Changer l'orientation des images sur deux axes |
-| [Statut GitHub](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/GitHub-Status-App.md) | Afficher l'état actuel de GitHub |
-| [Bonjour](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Hello-App.md) | Message d'accueil dans la langue maternelle de l'utilisateur |
-| [Simulateur de boîte aux lettres IOT](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/IOT-Mailbox-App.md) | Utilisez les rappels pour vérifier votre courrier postal |
-| [Validation des entrées JS](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Javascript-Validation-With-Regex.md) | Script pour valider les entrées saisies par un utilisateur à l'aide de RegEx |
-| [Application JSON2CSV](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/JSON2CSV-App.md) | Convertisseur JSON en CSV |
-| [Valeur clé](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Key-Value-App.md) | Valeurs des événements du clavier |
-| [Générateur Lorem Ipsum](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Lorem-Ipsum-Generator.md) | Générer un texte d'espace réservé Lorem ipsum |
-| [Application Notes](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Notes-App.md) | Créer un bloc-notes en ligne |
-| [Régression de Pearson](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Pearson-Regression-App.md) | Calculer le coefficient de corrélation pour deux ensembles de données |
-| [Horloge Pomodoro](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Pomodoro-Clock.md) | Minuterie de tâches pour améliorer la productivité personnelle |
-| [Page de destination du produit](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Product-Landing-Page.md) | Présenter les détails du produit aux acheteurs potentiels |
-| [Application de quiz](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Quiz-App.md) | Testez vos connaissances en répondant aux questions |
-| [Application de recettes](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Recipe-App.md) | Recette |
-| [Générateur de repas aléatoires](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Random-Meal-Generator.md) | Générer des repas aléatoires |
-| [Générateur de nombres aléatoires](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Random-Number-Generator.md) | Générez un nombre aléatoire entre les plages. |
-| [Convertisseur romain en décimal](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Roman-to-Decimal-Converter.md) | Convertir des nombres romains en nombres décimaux |
-| [Conception du curseur](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Slider-Design.md) | Afficher des images à l'aide d'un curseur |
-| [Application Chronomètre](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Stopwatch-App.md) | Compter le temps consacré aux activités |
-| [Vrai ou faux](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/True-or-False-App.md) | Identifier le résultat d'une comparaison conditionnelle |
-| [Chiffre de Vigenère](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Vigenere-Cipher.md) | Chiffrer le texte à l'aide du chiffre Vigenere |
-| [Refroidissement éolien](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Windchill-App.md) | Calculer le facteur de refroidissement éolien à partir d'une température réelle |
-| [Fréquence des mots](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Word-Frequency-App.md) | Calculer la fréquence des mots dans un bloc de texte |
-| [Application météo](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Weather-App.md) | Obtenez la température et les conditions météorologiques d'une ville. |
+| Nom de projet                                                                                                                             | Courte déscription                                                                |
+|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| [Bin2Dec](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md)                                        | Convertisseur de nombres binaires en décimaux                                     |
+| [Aperçu du rayon de bordure](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Border-Radius-Previewer.md)         | Aperçu de la façon dont les valeurs de rayon de bordure CSS3 affectent un élément |
+| [Calculatrice](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calculator-App.md)                                | Calculatrice                                                                      |
+| [Lumières de Noël](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Christmas-Lights-App.md)                      | Simulez une chaîne de lumières de Noël                                            |
+| [Application Cause Effet](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Cause-Effect-App.md)                   | Cliquez sur l'élément de la liste pour afficher les détails de l'élément          |
+| [Cycle de couleurs](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Color-Cycle-App.md)                          | Faire défiler une valeur de couleur à travers des changements incrémentiels       |
+| [Compte à rebours](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Countdown-Timer-App.md)                       | Compte à rebours d'événement                                                      |
+| [Application CSV2JSON](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/CSV2JSON-App.md)                          | Convertisseur CSV en JSON                                                         |
+| [Dollars en Cents](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Dollars-To-Cents-App.md)                      | Convertir des dollars en centimes                                                 |
+| [Variables CSS dynamiques](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Dynamic-CSSVar-app.md)                | Modifier dynamiquement les paramètres des variables CSS                           |
+| [Première application de base de données](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/First-DB-App.md)       | Votre première application de base de données !                                   |
+| [Retourner l'image](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Flip-Image-App.md)                           | Changer l'orientation des images sur deux axes                                    |
+| [Statut GitHub](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/GitHub-Status-App.md)                            | Afficher l'état actuel de GitHub                                                  |
+| [Bonjour](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Hello-App.md)                                          | Message d'accueil dans la langue maternelle de l'utilisateur                      |
+| [Simulateur de boîte aux lettres IOT](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/IOT-Mailbox-App.md)        | Utilisez les rappels pour vérifier votre courrier postal                          |
+| [Validation des entrées JS](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Javascript-Validation-With-Regex.md) | Script pour valider les entrées saisies par un utilisateur à l'aide de RegEx      |
+| [Application JSON2CSV](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/JSON2CSV-App.md)                          | Convertisseur JSON en CSV                                                         |
+| [Valeur clé](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Key-Value-App.md)                                   | Valeurs des événements du clavier                                                 |
+| [Générateur Lorem Ipsum](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Lorem-Ipsum-Generator.md)               | Générer un texte d'espace réservé Lorem ipsum                                     |
+| [Application Notes](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Notes-App.md)                                | Créer un bloc-notes en ligne                                                      |
+| [Régression de Pearson](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Pearson-Regression-App.md)               | Calculer le coefficient de corrélation pour deux ensembles de données             |
+| [Horloge Pomodoro](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Pomodoro-Clock.md)                            | Minuterie de tâches pour améliorer la productivité personnelle                    |
+| [Page de destination du produit](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Product-Landing-Page.md)        | Présenter les détails du produit aux acheteurs potentiels                         |
+| [Application de quiz](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Quiz-App.md)                               | Testez vos connaissances en répondant aux questions                               |
+| [Application de recettes](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Recipe-App.md)                         | Recette                                                                           |
+| [Générateur de repas aléatoires](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Random-Meal-Generator.md)       | Générer des repas aléatoires                                                      |
+| [Générateur de nombres aléatoires](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Random-Number-Generator.md)   | Générez un nombre aléatoire entre les plages.                                     |
+| [Convertisseur romain en décimal](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Roman-to-Decimal-Converter.md) | Convertir des nombres romains en nombres décimaux                                 |
+| [Conception du curseur](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Slider-Design.md)                        | Afficher des images à l'aide d'un curseur                                         |
+| [Application Chronomètre](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Stopwatch-App.md)                      | Compter le temps consacré aux activités                                           |
+| [Vrai ou faux](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/True-or-False-App.md)                             | Identifier le résultat d'une comparaison conditionnelle                           |
+| [Chiffre de Vigenère](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Vigenere-Cipher.md)                        | Chiffrer le texte à l'aide du chiffre Vigenere                                    |
+| [Refroidissement éolien](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Windchill-App.md)                       | Calculer le facteur de refroidissement éolien à partir d'une température réelle   |
+| [Fréquence des mots](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Word-Frequency-App.md)                      | Calculer la fréquence des mots dans un bloc de texte                              |
+| [Application météo](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Weather-App.md)                              | Obtenez la température et les conditions météorologiques d'une ville.             |
 
 ### [Niveau 2 - Projets de niveau intermédière](#niveau-2)
 
-| Nom de projet                                                                                                                      | Courte déscription                            |
-| --------------------------------------------------------------------------------------- | ------------------------------ |
-| [Masques de bits](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Bit-Masks-App.md) | Utilisation de masques de bits pour les conditions |
-| [Application de recherche de livres](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Book-Finder-App.md) | Rechercher des livres selon plusieurs critères |
-| [Calculatrice CLI](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Calculator-CLI.md) | Créez une calculatrice de base cli. |
-| [Jeu de mémoire de cartes](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Card-Memory-Game.md) | Mémorisez et faites correspondre les images cachées |
+| Nom de projet                                                                                                                                               | Courte déscription                                                   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| [Masques de bits](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Bit-Masks-App.md)                                            | Utilisation de masques de bits pour les conditions                   |
+| [Application de recherche de livres](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Book-Finder-App.md)                       | Rechercher des livres selon plusieurs critères                       |
+| [Calculatrice CLI](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Calculator-CLI.md)                                          | Créez une calculatrice de base cli.                                  |
+| [Jeu de mémoire de cartes](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Card-Memory-Game.md)                                | Mémorisez et faites correspondre les images cachées                  |
 | [Application de recherche d'organismes de bienfaisance](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Charity-Finder-App.md) | Trouvez une organisation caritative mondiale à laquelle faire un don |
-| [Extension du thème Chrome](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Chrome-Theme-Extension.md) | Créez votre propre extension de thème Chrome. |
-| [Convertisseur de devises](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Currency-Converter.md) | Convertissez une devise en une autre. |
-| [Application de dessin](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Drawing-App.md) | Créer des œuvres d'art numériques sur le Web |
-| [Application de traduction Emoji](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Emoji-Translator-App.md) | Traduire des phrases en Emoji |
-| [Application Flashcards](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/FlashCards-App.md) | Révisez et testez vos connaissances grâce aux Flash Cards |
-| [Application Flip Art](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Flip-Art-App.md) | Animer un ensemble d'images |
-| [Application de suggestion de jeux](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Game-Suggestion-App.md) | Créez des sondages pour décider à quels jeux jouer |
-| [Profils GitHub](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/GitHub-Profiles.md) | Une application de recherche d'utilisateurs GitHub |
-| [Jeu HighStriker](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/HighStriker-Game.md) | Jeu de carnaval d'homme fort Highstriker |
-| [Scanner d'images](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Image-Scaner.md) | Application de numérisation d'images |
-| [Aperçu de démarque](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Markdown-Previewer.md) | Aperçu du texte formaté dans le markdown aromatisé GitHub |
-| [Générateur de tableaux de démarques](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Markdown-Table-Generator.md) | Convertir un tableau en texte au format Markdown |
-| [Éditeur mathématique](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/math-editor.md) | Un éditeur mathématique que les étudiants peuvent utiliser |
-| [Application Générateur de mèmes](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Meme-Generator-App.md) | Créer des mèmes personnalisés |
-| [Génération de noms à l'aide de RNN](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Name-Generator.md) | Générer des noms à l'aide de l'ensemble de données de noms |
-| [Générateur de mot de passe](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Password-Generator.md) | Générer des mots de passe aléatoires |
-| [Répertoire des podcasts](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Podcast-Directory-App.md) | Répertoire des podcasts préférés |
-| [Générateur de badges QR Code](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/QRCode-Badge-App.md) | Encoder les informations du badge dans un QRcode |
-| [Assistant d'expression régulière](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/RegExp-Helper-App.md) | Tester les expressions régulières |
-| [Application de reçus de vente](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Sales-DB-App.md) | Enregistrer les reçus de vente dans une base de données |
-| [Boutique en ligne simple](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Simple-Online-Store.md) | Boutique en ligne simple |
-| [Générateur de supports sportifs](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Sports-Bracket-Generator.md) | Générer un diagramme de support sportif |
-| [Art à cordes](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/String-Art.md) | Une animation de chaînes colorées en mouvement |
-| [Ceci ou ce jeu](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/This-or-That-Game.md) | Ceci ou ce jeu |
-| [Fuseau horaire](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Timezone-Slackbot.md) | Afficher les fuseaux horaires des équipes |
-| [Application de tâches](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/To-Do-App.md) | Gérer les tâches personnelles |
-| [Pratique de frappe](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Typing-Practice-App.md) | Pratique de frappe |
-| [Application de vote](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Voting-App.md) | Application de vote |
+| [Extension du thème Chrome](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Chrome-Theme-Extension.md)                         | Créez votre propre extension de thème Chrome.                        |
+| [Convertisseur de devises](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Currency-Converter.md)                              | Convertissez une devise en une autre.                                |
+| [Application de dessin](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Drawing-App.md)                                        | Créer des œuvres d'art numériques sur le Web                         |
+| [Application de traduction Emoji](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Emoji-Translator-App.md)                     | Traduire des phrases en Emoji                                        |
+| [Application Flashcards](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/FlashCards-App.md)                                    | Révisez et testez vos connaissances grâce aux Flash Cards            |
+| [Application Flip Art](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Flip-Art-App.md)                                        | Animer un ensemble d'images                                          |
+| [Application de suggestion de jeux](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Game-Suggestion-App.md)                    | Créez des sondages pour décider à quels jeux jouer                   |
+| [Profils GitHub](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/GitHub-Profiles.md)                                           | Une application de recherche d'utilisateurs GitHub                   |
+| [Jeu HighStriker](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/HighStriker-Game.md)                                         | Jeu de carnaval d'homme fort Highstriker                             |
+| [Scanner d'images](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Image-Scaner.md)                                            | Application de numérisation d'images                                 |
+| [Aperçu de démarque](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Markdown-Previewer.md)                                    | Aperçu du texte formaté dans le markdown aromatisé GitHub            |
+| [Générateur de tableaux de démarques](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Markdown-Table-Generator.md)             | Convertir un tableau en texte au format Markdown                     |
+| [Éditeur mathématique](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/math-editor.md)                                         | Un éditeur mathématique que les étudiants peuvent utiliser           |
+| [Application Générateur de mèmes](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Meme-Generator-App.md)                       | Créer des mèmes personnalisés                                        |
+| [Génération de noms à l'aide de RNN](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Name-Generator.md)                        | Générer des noms à l'aide de l'ensemble de données de noms           |
+| [Générateur de mot de passe](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Password-Generator.md)                            | Générer des mots de passe aléatoires                                 |
+| [Répertoire des podcasts](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Podcast-Directory-App.md)                            | Répertoire des podcasts préférés                                     |
+| [Générateur de badges QR Code](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/QRCode-Badge-App.md)                            | Encoder les informations du badge dans un QRcode                     |
+| [Assistant d'expression régulière](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/RegExp-Helper-App.md)                       | Tester les expressions régulières                                    |
+| [Application de reçus de vente](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Sales-DB-App.md)                               | Enregistrer les reçus de vente dans une base de données              |
+| [Boutique en ligne simple](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Simple-Online-Store.md)                             | Boutique en ligne simple                                             |
+| [Générateur de supports sportifs](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Sports-Bracket-Generator.md)                 | Générer un diagramme de support sportif                              |
+| [Art à cordes](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/String-Art.md)                                                  | Une animation de chaînes colorées en mouvement                       |
+| [Ceci ou ce jeu](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/This-or-That-Game.md)                                         | Ceci ou ce jeu                                                       |
+| [Fuseau horaire](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Timezone-Slackbot.md)                                         | Afficher les fuseaux horaires des équipes                            |
+| [Application de tâches](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/To-Do-App.md)                                          | Gérer les tâches personnelles                                        |
+| [Pratique de frappe](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Typing-Practice-App.md)                                   | Pratique de frappe                                                   |
+| [Application de vote](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Voting-App.md)                                           | Application de vote                                                  |
 
 ### [Niveau 3 - Projets de niveau avancé](#niveau-3)
 
 
-| Nom de projet                                                                                                                      | Courte déscription                            |
-| --------------------------------------------------------------------------------------- | ------------------------------ |
-| [Bot cuirassé](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Battleship-Bot.md) | Créez un bot Discord qui joue à Battleship |
-| [Moteur de jeu de cuirassé](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Battleship-Game-Engine.md) | Créez un moteur appelable pour jouer au jeu Battleship |
-| [Jeu Boole Bots](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Boole-Bot-Game.md) | Combattre des robots pilotés par l'algèbre booléenne |
-| [Calendrier](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calendar-App.md) | Créez votre propre calendrier |
-| [Compteur de calories](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Calorie-Counter-App.md) | Application nutritionnelle de compteur de calories |
-| [Application de discussion](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Chat-App.md) | Interface de discussion en temps réel |
-| [Application de suivi des contributions](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Contribution-Tracker-App.md) | Suivre les fonds donnés à des œuvres caritatives |
-| [Ascenseur](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Elevator-App.md) | Simulateur d'ascenseur |
-| [Simulateur de restauration rapide](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/FastFood-App.md) | Simulateur de restauration rapide |
-| [Cloner Instagram](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Instagram-Clone-App.md) | Un clone de l'application Instagram de Facebook |
-| [Chronologie GitHub](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/GitHub-Timeline-App.md) | Générer une chronologie des dépôts GitHub d'un utilisateur |
-| [Félicitations à Slackbot](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Kudos-Slackbot.md) | Donner de la reconnaissance à un pair méritant |
-| [Application de film](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Movie-App.md) | Parcourez, recherchez des notes, vérifiez les acteurs et trouvez le prochain film à regarder |
-| [Bibliothèque MyPodcast](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/MyPodcast-Library-app.md) | Créez une bibliothèque de podcasts préférés |
-| [Requête d'exoplanète de la NASA](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/NASA-Exoplanet-Query.md) | Interrogez les archives d'exoplanètes de la NASA |
-| [Jeu de coquille](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Shell-Game.md) | Jeu de coquille animé |
-| [Mélanger le jeu](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Shuffle-Deck-App.md) | Évaluer différents algorithmes pour mélanger un jeu de cartes |
-| [Archiveur Slack](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Slack-Archiver.md) | Archiver les messages Slack |
-| [Application Épeler](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/SpellIt-App.md) | Une variante du jeu classique Speak N Spell |
-| [Application d'enquête](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Survey-App.md) | Définir, mener et afficher une enquête |
+| Nom de projet                                                                                                                                  | Courte déscription                                                                           |
+|------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| [Bot cuirassé](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Battleship-Bot.md)                                     | Créez un bot Discord qui joue à Battleship                                                   |
+| [Moteur de jeu de cuirassé](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Battleship-Game-Engine.md)                | Créez un moteur appelable pour jouer au jeu Battleship                                       |
+| [Jeu Boole Bots](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Boole-Bot-Game.md)                                   | Combattre des robots pilotés par l'algèbre booléenne                                         |
+| [Calendrier](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Calendar-App.md)                                         | Créez votre propre calendrier                                                                |
+| [Compteur de calories](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Calorie-Counter-App.md)                        | Application nutritionnelle de compteur de calories                                           |
+| [Application de discussion](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Chat-App.md)                              | Interface de discussion en temps réel                                                        |
+| [Application de suivi des contributions](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Contribution-Tracker-App.md) | Suivre les fonds donnés à des œuvres caritatives                                             |
+| [Ascenseur](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Elevator-App.md)                                          | Simulateur d'ascenseur                                                                       |
+| [Simulateur de restauration rapide](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/FastFood-App.md)                  | Simulateur de restauration rapide                                                            |
+| [Cloner Instagram](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Instagram-Clone-App.md)                            | Un clone de l'application Instagram de Facebook                                              |
+| [Chronologie GitHub](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/GitHub-Timeline-App.md)                          | Générer une chronologie des dépôts GitHub d'un utilisateur                                   |
+| [Félicitations à Slackbot](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Kudos-Slackbot.md)                         | Donner de la reconnaissance à un pair méritant                                               |
+| [Application de film](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Movie-App.md)                                   | Parcourez, recherchez des notes, vérifiez les acteurs et trouvez le prochain film à regarder |
+| [Bibliothèque MyPodcast](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/MyPodcast-Library-app.md)                    | Créez une bibliothèque de podcasts préférés                                                  |
+| [Requête d'exoplanète de la NASA](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/NASA-Exoplanet-Query.md)            | Interrogez les archives d'exoplanètes de la NASA                                             |
+| [Jeu de coquille](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Shell-Game.md)                                      | Jeu de coquille animé                                                                        |
+| [Mélanger le jeu](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Shuffle-Deck-App.md)                                | Évaluer différents algorithmes pour mélanger un jeu de cartes                                |
+| [Archiveur Slack](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Slack-Archiver.md)                                  | Archiver les messages Slack                                                                  |
+| [Application Épeler](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/SpellIt-App.md)                                  | Une variante du jeu classique Speak N Spell                                                  |
+| [Application d'enquête](https://github.com/florinpop17/app-ideas/blob/master/Projects/3-Advanced/Survey-App.md)                                | Définir, mener et afficher une enquête                                                       |
 
 ## [Awesome App Ideas (tastejs/awesome-app-ideas)](https://github.com/tastejs/awesome-app-ideas/)
 
@@ -223,39 +223,39 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 - API YouTube/client de recherche
 	- À l'aide de l'API YouTube, votre application devrait pouvoir saisir une chaîne de recherche et renvoyer les vidéos pour cette recherche. Par exemple, si je voulais regarder Starman de David Bowie, seules ces vidéos devraient être renvoyées. Cependant, si je ne suis pas pointilleux et que je veux simplement écouter David Bowie, cela devrait renvoyer un certain nombre de résultats relatifs à Bowie. Une fonctionnalité supplémentaire permettrait de choisir au hasard quelle vidéo est renvoyée ou de limiter le nombre de résultats renvoyés dans une seule recherche.
 
-## [Build your own X (codecrafters-io/build-your-own-x)](https://github.com/codecrafters-io/build-your-own-x)
+## [Build your own X (codecrafters-io/build-your-own-x)](https://github.com/codecrafters-io/build-your-own-x/)
 
 <!-- [...document.querySelectorAll('article ul:first-of-type li a')].map(e => `| <a href="#${e.getAttribute('href').replace('#build-your-own-', '')}-content" id="${e.getAttribute('href').replace('#build-your-own-', '')}-cat">${e.innerText}</a> |`).join("\n") -->
 
-| Catégories |
-| ------ |
-| <a href="#3d-renderer-content" id="3d-renderer-cat">Rendu 3D</a> |
-| <a href="#augmented-reality-content" id="augmented-reality-cat">Réalité augmentée</a> |
-| <a href="#bittorrent-client-content" id="bittorrent-client-cat">Client BitTorrent</a> |
-| <a href="#blockchain--cryptocurrency-content" id="blockchain--cryptocurrency-cat">Blockchain / Crypto-monnaie</a> |
-| <a href="#bot-content" id="bot-cat">Bot</a> |
-| <a href="#command-line-tool-content" id="command-line-tool-cat">Outil de ligne de commande</a> |
-| <a href="#database-content" id="database-cat">Base de données</a> |
-| <a href="#docker-content" id="docker-cat">Docker</a> |
-| <a href="#emulator--virtual-machine-content" id="emulator--virtual-machine-cat">Émulateur / Machine Virtuelle</a> |
+| Catégories                                                                                                                   |
+|------------------------------------------------------------------------------------------------------------------------------|
+| <a href="#3d-renderer-content" id="3d-renderer-cat">Rendu 3D</a>                                                             |
+| <a href="#augmented-reality-content" id="augmented-reality-cat">Réalité augmentée</a>                                        |
+| <a href="#bittorrent-client-content" id="bittorrent-client-cat">Client BitTorrent</a>                                        |
+| <a href="#blockchain--cryptocurrency-content" id="blockchain--cryptocurrency-cat">Blockchain / Crypto-monnaie</a>            |
+| <a href="#bot-content" id="bot-cat">Bot</a>                                                                                  |
+| <a href="#command-line-tool-content" id="command-line-tool-cat">Outil de ligne de commande</a>                               |
+| <a href="#database-content" id="database-cat">Base de données</a>                                                            |
+| <a href="#docker-content" id="docker-cat">Docker</a>                                                                         |
+| <a href="#emulator--virtual-machine-content" id="emulator--virtual-machine-cat">Émulateur / Machine Virtuelle</a>            |
 | <a href="#front-end-framework--library-content" id="front-end-framework--library-cat">Framework front-end / Bibliothèque</a> |
-| <a href="#game-content" id="game-cat">Jeu</a> |
-| <a href="#git-content" id="git-cat">Git</a> |
-| <a href="#network-stack-content" id="network-stack-cat">Pile réseau</a> |
-| <a href="#neural-network-content" id="neural-network-cat">Réseau neuronal</a> |
-| <a href="#operating-system-content" id="operating-system-cat">Système opérateur</a> |
-| <a href="#physics-engine-content" id="physics-engine-cat">Moteur physique</a> |
-| <a href="#programming-language-content" id="programming-language-cat">Langage de programmation</a> |
-| <a href="#regex-engine-content" id="regex-engine-cat">Moteur d'expression régulière</a> |
-| <a href="#search-engine-content" id="search-engine-cat">Moteur de recherche</a> |
-| <a href="#shell-content" id="shell-cat">Coquille</a> |
-| <a href="#template-engine-content" id="template-engine-cat">Moteur de modèles</a> |
-| <a href="#text-editor-content" id="text-editor-cat">Éditeur de texte</a> |
-| <a href="#visual-recognition-system-content" id="visual-recognition-system-cat">Système de reconnaissance visuelle</a> |
-| <a href="#voxel-engine-content" id="voxel-engine-cat">Moteur Voxel</a> |
-| <a href="#web-browser-content" id="web-browser-cat">Navigateur Web</a> |
-| <a href="#web-server-content" id="web-server-cat">Serveur Web</a> |
-| <a href="##uncategorized-content" id="#uncategorized-cat">Non classé</a> |
+| <a href="#game-content" id="game-cat">Jeu</a>                                                                                |
+| <a href="#git-content" id="git-cat">Git</a>                                                                                  |
+| <a href="#network-stack-content" id="network-stack-cat">Pile réseau</a>                                                      |
+| <a href="#neural-network-content" id="neural-network-cat">Réseau neuronal</a>                                                |
+| <a href="#operating-system-content" id="operating-system-cat">Système opérateur</a>                                          |
+| <a href="#physics-engine-content" id="physics-engine-cat">Moteur physique</a>                                                |
+| <a href="#programming-language-content" id="programming-language-cat">Langage de programmation</a>                           |
+| <a href="#regex-engine-content" id="regex-engine-cat">Moteur d'expression régulière</a>                                      |
+| <a href="#search-engine-content" id="search-engine-cat">Moteur de recherche</a>                                              |
+| <a href="#shell-content" id="shell-cat">Coquille</a>                                                                         |
+| <a href="#template-engine-content" id="template-engine-cat">Moteur de modèles</a>                                            |
+| <a href="#text-editor-content" id="text-editor-cat">Éditeur de texte</a>                                                     |
+| <a href="#visual-recognition-system-content" id="visual-recognition-system-cat">Système de reconnaissance visuelle</a>       |
+| <a href="#voxel-engine-content" id="voxel-engine-cat">Moteur Voxel</a>                                                       |
+| <a href="#web-browser-content" id="web-browser-cat">Navigateur Web</a>                                                       |
+| <a href="#web-server-content" id="web-server-cat">Serveur Web</a>                                                            |
+| <a href="##uncategorized-content" id="#uncategorized-cat">Non classé</a>                                                     |
 
 <!-- Object.entries([...document.querySelectorAll('.markdown-heading:has(>h4),.markdown-heading:has(>h4)+ul li')].reduce((r, c) => {
 	if (c.tagName.toLowerCase() === 'div') {
@@ -3183,23 +3183,23 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 
 ### [Build your own X in Rust (osynavets/build-your-own-x-in-rust)](https://github.com/osynavets/build-your-own-x-in-rust)
 
-| Catégories |
-| ------ |
+| Catégories                                                                                                                       |
+|----------------------------------------------------------------------------------------------------------------------------------|
 | <a href="#algorithms--data-structures-content" id="algorithms--data-structures-rust-cat">Algorithmes / Structures de données</a> |
-| <a href="#bot-rust-content" id="bot-rust-cat">Bot</a> |
-| <a href="#blockchain-rust-content" id="blockchain-rust-cat">Chaîne de blocs</a> |
-| <a href="#database-rust-content" id="database-rust-cat">Base de données</a> |
-| <a href="#embedded-system-rust-content" id="embedded-system-rust-cat">Système embarqué</a> |
-| <a href="#file-system-rust-content" id="file-system-rust-cat">Système de fichiers</a> |
-| <a href="#game-rust-content" id="game-rust-cat">Jeu</a> |
-| <a href="#garbage-collector-rust-content" id="garbage-collector-rust-cat">Garbage collector</a> |
-| <a href="#network-stack-rust-content" id="network-stack-rust-cat">Pile réseau</a> |
-| <a href="#operating-system-rust-content" id="operating-system-rust-cat">Système opérateur</a> |
-| <a href="#programming-language-rust-content" id="programming-language-rust-cat">Langage de programmation</a> |
-| <a href="#shell-rust-content" id="shell-rust-cat">Shell</a> |
-| <a href="#video-codecs-rust-content" id="video-codecs-rust-cat">Codecs vidéo</a> |
-| <a href="#virtual-machine-rust-content" id="virtual-machine-rust-cat">Machine virtuelle</a> |
-| <a href="#uncategorized-rust-content" id="uncategorized-rust-cat">Non classé</a> |
+| <a href="#bot-rust-content" id="bot-rust-cat">Bot</a>                                                                            |
+| <a href="#blockchain-rust-content" id="blockchain-rust-cat">Chaîne de blocs</a>                                                  |
+| <a href="#database-rust-content" id="database-rust-cat">Base de données</a>                                                      |
+| <a href="#embedded-system-rust-content" id="embedded-system-rust-cat">Système embarqué</a>                                       |
+| <a href="#file-system-rust-content" id="file-system-rust-cat">Système de fichiers</a>                                            |
+| <a href="#game-rust-content" id="game-rust-cat">Jeu</a>                                                                          |
+| <a href="#garbage-collector-rust-content" id="garbage-collector-rust-cat">Garbage collector</a>                                  |
+| <a href="#network-stack-rust-content" id="network-stack-rust-cat">Pile réseau</a>                                                |
+| <a href="#operating-system-rust-content" id="operating-system-rust-cat">Système opérateur</a>                                    |
+| <a href="#programming-language-rust-content" id="programming-language-rust-cat">Langage de programmation</a>                     |
+| <a href="#shell-rust-content" id="shell-rust-cat">Shell</a>                                                                      |
+| <a href="#video-codecs-rust-content" id="video-codecs-rust-cat">Codecs vidéo</a>                                                 |
+| <a href="#virtual-machine-rust-content" id="virtual-machine-rust-cat">Machine virtuelle</a>                                      |
+| <a href="#uncategorized-rust-content" id="uncategorized-rust-cat">Non classé</a>                                                 |
 
 <table>
 	<tr>
@@ -3692,7 +3692,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 
 ### Types Challange (type-challenges/type-challenges)
 
-[![Chanllange typescript types](./assets/screenshot-tsch.png)](https://tsch.js.org/)
+[![Challange typescript types](./assets/screenshot-tsch.png)](https://tsch.js.org/)
 [![Github](https://img.shields.io/badge/GitHub-fff?style=social&logo=github&logoColor=pin)](https://github.com/type-challenges/type-challenges)
 
 ### Processing One Billion Rows
@@ -3714,7 +3714,35 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 - [Apprendre TypeScript par la pratique](https://www.freecodecamp.org/news/learn-typescript-for-practical-projects)
 
 ---
- 
-> PS : C'est publique et ouvert à tous donc n'hésitez pas à faire une MR si vous avez d'autre sites de veille, outils, idées d'app à dev pour les devs juniors ou juste pour apprendre un langage, liens de tutos d'outils à dev sois même dans différents languages, ou même des liens vers des challanges de prog peux importe le langage ça interessera toujours des personnes si bien évidement ils ne sont pas déja présent ici 😉
+
+## Outils
+
+| Nom de l'outil                                                                 | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|:-------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Ray.so](https://ray.so/)                                                      | Créer une image pour présenter votre code sous forme d'une fenêtre d'IDE MacOS                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| [Image ColorPicker](https://imagecolorpicker.com/)                             | Récupérez n'importe quelle couleur pixel par pixel sur une image que vous uploadrez                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| [Regex101](https://regex101.com/)                                              | Testez vos regex et récupérez le code correspondant dans différent languages                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| [Omatsuri](https://omatsuri.app/?homescreen)                                   | Liste de différents outils dont : un générateur de triangle, un générateur de palettes de couleur, un générateur de dégradé, un générateur de diviseurs de pages, un compresseur de svg, un convertisseur de svg en jsx, un encodeur de documents base64, un générateur de fausses données, une collection de symboles utiles, un générateur de lorem ipsum, un la liste des curseurs css, et un générateurs d'évènements claviers ( récupère aussi les différentes information sur la touche tapée pour vous la donner ) |
+| [NetTools](https://www.nettools.club/)                                         | Liste d'outils réseau                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| [Readme.so](https://readme.so/fr)                                              | Editeur de readme via templates de blocs avec preview                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| [10015.io](https://10015.io/)                                                  | 10015.io est une solution de "boîte à outils tout-en-un gratuite" créée pour vous faciliter la vie en évitant le gâchis des racourcis.                                                                                                                                                                                                                                                                                                                                                                                    | 
+| [Gradient Generator](https://www.joshwcomeau.com/gradient-generator/)          | Générez vos dégradés CSS de manière entièrement paramétrable                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| [GetWaves](https://getwaves.io/)                                               | Générateur de vagues de différentes formes en csv                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| [GetShapes](https://www.blobmaker.app/)                                        | Générateur de formes aléatoires en csv                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| [Photopea](https://www.photopea.com/)                                          | Photoshop like **`Gratuit`**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| [Diff checker](https://www.diffchecker.com/)                                   | Permet de vérifier les différences entre 2 contenus text, images, PDFs, Word et Excel                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| [GetNada](https://getnada.cc/)                                                 | Boite mail temporaire ( pour les tests de développement )                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| [Smile.cool](https://smiley.cool/fr/emoji-list.php)                            | Liste de tous les émojis que vous pouvez copier en cliquant dessus                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| [OnlinePHP](https://onlinephp.io/)                                             | Sandbox PHP avec plusieurs versions disponibles                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| [Image2Text](https://www.imagetotext.info/)                                    | Extracteur de text d'une image                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| [Text2Ascii](https://www.asciiart.eu/text-to-ascii-art)                        | Convertisseur de text en Ascii & Art                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| [Image2Ascii](https://www.asciiart.eu/image-to-ascii)                          | Convertisseur d'images en Ascii & Art                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| [OnlineBashInterpreter](https://www.jdoodle.com/test-bash-shell-script-online) | Interpreteur bash en ligne                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| [PWABuilder](https://www.pwabuilder.com/)                                      | Constructeur de progressive web app                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| [PHPLand](https://lands.php.earth/)                                            | Carte du monde PHP sous forme de carte de pirate                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+## PS
+
+> C'est publique et ouvert à tous donc n'hésitez pas à faire une MR si vous avez d'autre sites de veille, outils, idées d'app à dev pour les devs juniors ou juste pour apprendre un langage, liens de tutos d'outils à dev sois même dans différents languages, ou même des liens vers des challanges de prog peux importe le langage ça interessera toujours des personnes si bien évidement ils ne sont pas déja présent ici 😉
 
 [![Top](./assets/arrow-top.png)](#top)
