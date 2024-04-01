@@ -3701,6 +3701,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 [![Github](https://img.shields.io/badge/GitHub-fff?style=social&logo=github&logoColor=pin)](https://github.com/gunnarmorling/1brc?tab=readme-ov-file)<br>
 [![Article](https://img.shields.io/badge/Dev.to-fff?style=social&logo=livejournal&logoColor=black)](https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0)
 
+---
 
 ## Veille
 
@@ -3712,8 +3713,6 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 
 ### TypeScript
 - [Apprendre TypeScript par la pratique](https://www.freecodecamp.org/news/learn-typescript-for-practical-projects)
-
----
 
 ## Outils
 
