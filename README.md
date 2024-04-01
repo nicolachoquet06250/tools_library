@@ -3750,10 +3750,14 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 	<tr>
 		<td>
-			<img src="https://img.shields.io/badge/php-000?logo=php&logoColor=pin" alt="php">
+			<a href="https://www.php.net/">
+				<img src="https://img.shields.io/badge/php-000?logo=php&logoColor=pin" alt="php">
+			</a>
 		</td>
 		<td>
-			<img src="https://img.shields.io/badge/composer-000?logo=composer&logoColor=pin" alt="composer">
+			<a href="https://getcomposer.org/">
+				<img src="https://img.shields.io/badge/composer-000?logo=composer&logoColor=pin" alt="composer">
+			</a>
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/web-000" 
@@ -3778,10 +3782,14 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 	<tr>
 		<td>
-			<img src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=pin" alt="JavaScript">
+			<a href="https://javascript.info/">
+				<img src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=pin" alt="JavaScript">
+			</a>
 		</td>
 		<td>
-			<img src="https://img.shields.io/badge/npm-000?logo=npm&logoColor=pin" alt="componpmer">
+			<a href="https://www.npmjs.com/">
+				<img src="https://img.shields.io/badge/npm-000?logo=npm&logoColor=pin" alt="npm">
+			</a>
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/web-000" 
@@ -3808,10 +3816,14 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 	<tr>
 		<td>
-			<img src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=pin" alt="TypeScript">
+			<a href="https://www.typescriptlang.org/">
+				<img src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=pin" alt="TypeScript">
+			</a>
 		</td>
 		<td>
-			<img src="https://img.shields.io/badge/npm-000?logo=npm&logoColor=pin" alt="componpmer">
+			<a href="https://www.npmjs.com/">
+				<img src="https://img.shields.io/badge/npm-000?logo=npm&logoColor=pin" alt="npm">
+			</a>
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/web-000" 
@@ -3838,10 +3850,14 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 	<tr>
 		<td>
-			<img src="https://img.shields.io/badge/Python-000?logo=python&logoColor=pin" alt="Python">
+			<a href="https://www.python.org/">
+				<img src="https://img.shields.io/badge/Python-000?logo=python&logoColor=pin" alt="Python">
+			</a>
 		</td>
 		<td>
-			<img src="https://img.shields.io/badge/pip-000?logo=python&logoColor=pin" alt="pip">
+			<a href="https://pypi.org/project/pip/">
+				<img src="https://img.shields.io/badge/pip-000?logo=python&logoColor=pin" alt="pip">
+			</a>
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/web-000" 
@@ -3866,11 +3882,17 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 	<tr>
 		<td>
-			<img src="https://img.shields.io/badge/Reason-000?logo=reason&logoColor=pin" alt="Reason">
+			<a href="https://reasonml.github.io/fr/">
+				<img src="https://img.shields.io/badge/Reason-000?logo=reason&logoColor=pin" alt="Reason">
+			</a>
 		</td>
 		<td>
-			<img src="https://img.shields.io/badge/npm-000?logo=npm&logoColor=pin" alt="npm">
-			<img src="https://img.shields.io/badge/opam-000?logo=ocaml&logoColor=pin" alt="opam">
+			<a href="https://www.npmjs.com/">
+				<img src="https://img.shields.io/badge/npm-000?logo=npm&logoColor=pin" alt="npm">
+			</a>
+			<a href="https://opam.ocaml.org/">
+				<img src="https://img.shields.io/badge/opam-000?logo=ocaml&logoColor=pin" alt="opam">
+			</a>
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/web-000" 
@@ -3893,32 +3915,14 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 	<tr>
 		<td>
-			<img src="https://img.shields.io/badge/Elm-000?logo=elm&logoColor=pin" alt="Elm">
+			<a href="https://elm-lang.org/">
+				<img src="https://img.shields.io/badge/Elm-000?logo=elm&logoColor=pin" alt="Elm">
+			</a>
 		</td>
 		<td>
-			<img src="https://img.shields.io/badge/elm_get-000?logo=elm&logoColor=pin" alt="elm">
-		</td>
-		<td>
-			<img src="https://img.shields.io/badge/web-000" 
-				 alt="web">
-			<img src="https://img.shields.io/badge/front-000" 
-				 alt="front">
-			<img src="https://img.shields.io/badge/mvc-000" 
-				 alt="mvc">
-			<img src="https://img.shields.io/badge/transpilé-000" 
-				 alt="transpilé">
-			<img src="https://img.shields.io/badge/fonctionnel-000" 
-				 alt="fonctionnel">
-			<img src="https://img.shields.io/badge/typage_statique_fort-000" 
-				 alt="typage statique fort">
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img src="https://img.shields.io/badge/Purescript-000?logo=purescript&logoColor=pin" alt="Purescript">
-		</td>
-		<td>
-			<img src="https://img.shields.io/badge/npm-000?logo=npm&logoColor=pin" alt="npm">
+			<a href="https://elm-lang.org/">
+				<img src="https://img.shields.io/badge/elm_get-000?logo=elm&logoColor=pin" alt="elm">
+			</a>
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/web-000" 
@@ -3937,10 +3941,40 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 	<tr>
 		<td>
-			<img src="https://img.shields.io/badge/ReScript-000?logo=rescript&logoColor=pin" alt="ReScript">
+			<a href="https://www.purescript.org/">
+				<img src="https://img.shields.io/badge/Purescript-000?logo=purescript&logoColor=pin" alt="Purescript">
+			</a>
 		</td>
 		<td>
-			<img src="https://img.shields.io/badge/npm-000?logo=npm&logoColor=pin" alt="npm">
+			<a href="https://www.npmjs.com/">
+				<img src="https://img.shields.io/badge/npm-000?logo=npm&logoColor=pin" alt="npm">
+			</a>
+		</td>
+		<td>
+			<img src="https://img.shields.io/badge/web-000" 
+				 alt="web">
+			<img src="https://img.shields.io/badge/front-000" 
+				 alt="front">
+			<img src="https://img.shields.io/badge/mvc-000" 
+				 alt="mvc">
+			<img src="https://img.shields.io/badge/transpilé-000" 
+				 alt="transpilé">
+			<img src="https://img.shields.io/badge/fonctionnel-000" 
+				 alt="fonctionnel">
+			<img src="https://img.shields.io/badge/typage_statique_fort-000" 
+				 alt="typage statique fort">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://rescript-lang.org/">
+				<img src="https://img.shields.io/badge/ReScript-000?logo=rescript&logoColor=pin" alt="ReScript">
+			</a>
+		</td>
+		<td>
+			<a href="https://www.npmjs.com/">
+				<img src="https://img.shields.io/badge/npm-000?logo=npm&logoColor=pin" alt="npm">
+			</a>
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/web-000" 
@@ -3959,10 +3993,14 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 	<tr>
 		<td>
-			<img src="https://img.shields.io/badge/Imba-000?logo=javascript&logoColor=pin" alt="Imba">
+			<a href="https://imba.io/">
+				<img src="https://img.shields.io/badge/Imba-000?logo=javascript&logoColor=pin" alt="Imba">
+			</a>
 		</td>
 		<td>
-			<img src="https://img.shields.io/badge/npm-000?logo=npm&logoColor=pin" alt="npm">
+			<a href="https://www.npmjs.com/">
+				<img src="https://img.shields.io/badge/npm-000?logo=npm&logoColor=pin" alt="npm">
+			</a>
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/web-000" 
@@ -3979,10 +4017,14 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 	<tr>
 		<td>
-			<img src="https://img.shields.io/badge/Elixir-000?logo=elixir&logoColor=pin" alt="Elixir">
+			<a href="https://elixir-lang.org/">
+				<img src="https://img.shields.io/badge/Elixir-000?logo=elixir&logoColor=pin" alt="Elixir">
+			</a>
 		</td>
 		<td>
-			<img src="https://img.shields.io/badge/hex-000?logo=erlang&logoColor=pin" alt="hex">
+			<a href="https://hexdocs.pm/">
+				<img src="https://img.shields.io/badge/hex-000?logo=erlang&logoColor=pin" alt="hex">
+			</a>
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/web-000" 
@@ -4001,10 +4043,14 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 	<tr>
 		<td>
-			<img src="https://img.shields.io/badge/Dart-000?logo=dart&logoColor=pin" alt="Dart">
+			<a href="https://dart.dev/">
+				<img src="https://img.shields.io/badge/Dart-000?logo=dart&logoColor=pin" alt="Dart">
+			</a>
 		</td>
 		<td>
-			<img src="https://img.shields.io/badge/pub-000?logo=dart&logoColor=pin" alt="pub">
+			<a href="https://pub.dev/">
+				<img src="https://img.shields.io/badge/pub-000?logo=dart&logoColor=pin" alt="pub">
+			</a>
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/web-000" 
@@ -4023,10 +4069,14 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 	<tr>
 		<td>
-			<img src="https://img.shields.io/badge/Go-000?logo=go&logoColor=pin" alt="Go">
+			<a href="https://go.dev/">
+				<img src="https://img.shields.io/badge/Go-000?logo=go&logoColor=pin" alt="Go">
+			</a>
 		</td>
 		<td>
-			<img src="https://img.shields.io/badge/Go-000?logo=go&logoColor=pin" alt="Go">
+			<a href="https://go.dev/">
+				<img src="https://img.shields.io/badge/Go-000?logo=go&logoColor=pin" alt="Go">
+			</a>
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/web-000" 
@@ -4049,10 +4099,14 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 	<tr>
 		<td>
-			<img src="https://img.shields.io/badge/Swift-000?logo=swift&logoColor=pin" alt="Go">
+			<a href="https://www.swift.org/">
+				<img src="https://img.shields.io/badge/Swift-000?logo=swift&logoColor=pin" alt="Swift">
+			</a>
 		</td>
 		<td>
-			<img src="https://img.shields.io/badge/Cargo-000?logo=swift&logoColor=pin" alt="SwiftPM">
+			<a href="https://swiftpackageindex.com/apple/swift-package-manager">
+				<img src="https://img.shields.io/badge/Cargo-000?logo=swift&logoColor=pin" alt="SwiftPM">
+			</a>
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/web-000" 
@@ -4069,10 +4123,14 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 	<tr>
 		<td>
-			<img src="https://img.shields.io/badge/Rust-000?logo=rust&logoColor=pin" alt="Go">
+			<a href="https://www.rust-lang.org/">
+				<img src="https://img.shields.io/badge/Rust-000?logo=rust&logoColor=pin" alt="Rust">
+			</a>
 		</td>
 		<td>
-			<img src="https://img.shields.io/badge/Cargo-000?logo=rust&logoColor=pin" alt="Cargo">
+			<a href="https://doc.rust-lang.org/cargo/">
+				<img src="https://img.shields.io/badge/Cargo-000?logo=rust&logoColor=pin" alt="Cargo">
+			</a>
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/web-000" 
