@@ -3750,7 +3750,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 	<tr>
 		<td>
-			<img src="https://img.shields.io/badge/php-fff?logo=php&logoColor=pin" alt="php">
+			<img src="https://img.shields.io/badge/php-000?logo=php&logoColor=pin" alt="php">
 		</td>
 		<td>
 			<img src="https://img.shields.io/badge/composer-000?logo=composer&logoColor=pin#gh-dark-mode-only" alt="composer">
