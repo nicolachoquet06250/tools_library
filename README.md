@@ -3703,7 +3703,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 
 [![One Billion Rows](./assets/screenshot-one-billion.png)](https://www.morling.dev/blog/one-billion-row-challenge)
 [![Github](https://img.shields.io/badge/GitHub-fff?style=social&logo=github&logoColor=pin)](https://github.com/gunnarmorling/1brc?tab=readme-ov-file)<br>
-[![Article](https://img.shields.io/badge/Dev.to-fff?style=social&logo=livejournal&logoColor=black)](https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0)
+[![Article](https://img.shields.io/badge/Dev.to-fff?style=social&logo=devdotto&logoColor=black)](https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0)
 
 ---
 
