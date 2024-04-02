@@ -4149,6 +4149,42 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 </table>
 
+## Formats de données
+
+<table>
+	<tr>
+		<th>Nom du format</th>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://yaml.org/">
+				<img src="https://img.shields.io/badge/Yaml-000?logo=yaml&logoColor=pin" alt="Yaml">
+			</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://www.json.org/json-fr.html">
+				<img src="https://img.shields.io/badge/Json-000?logo=json&logoColor=pin" alt="Json">
+			</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://hjson.github.io/">
+				<img src="https://img.shields.io/badge/Hjson-000?logo=json&logoColor=pin" alt="Hjson">
+			</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://toml.io/fr/">
+				<img src="https://img.shields.io/badge/Toml-000?logo=toml&logoColor=pin" alt="Toml">
+			</a>
+		</td>
+	</tr>
+</table>
+
 ## PS
 
 > C'est publique et ouvert à tous donc n'hésitez pas à faire une MR si vous avez d'autre sites de veille, outils, idées d'app à dev pour les devs juniors ou juste pour apprendre un langage, liens de tutos d'outils à dev sois même dans différents languages, ou même des liens vers des challanges de prog peux importe le langage ça interessera toujours des personnes si bien évidement ils ne sont pas déja présent ici 😉
