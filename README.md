@@ -3860,7 +3860,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		</td>
 		<td>
 			<a href="https://pypi.org/project/pip/">
-				<img src="https://img.shields.io/badge/pip-000?logo=python&logoColor=pin" alt="pip">
+				<img src="https://img.shields.io/badge/pip-000?logo=pypi&logoColor=pin" alt="pip">
 			</a>
 		</td>
 		<td>
