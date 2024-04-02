@@ -4,7 +4,7 @@
 
 Constitution d'une liste d'outils, répos, d'idées d'apps, challanges ou tout autre ressource pour s'améliorer en programmation peux importe son niveau
 
-> C'est publique et ouvert à tous donc n'hésitez pas à faire une MR si vous avez d'autre sites de veille, outils, idées d'app à dev pour les devs juniors ou juste pour apprendre un langage, liens de tutos d'outils à dev sois même dans différents languages, ou même des liens vers des challanges de prog peux importe le langage ça interessera toujours des personnes si bien évidement ils ne sont pas déja présent ici 😉
+> C'est publique et ouvert à tous donc n'hésitez pas à faire une MR si vous avez d'autre sites de veille, outils, idées d'apps de tout niveau, liens de tutos d'outils à dev sois même dans différents languages, ou même des liens vers des challanges de prog peux importe le langage ça interessera toujours des personnes si bien évidement ils ne sont pas déja présent ici 😉
 
 ## Contributeurs
 <a href="https://github.com/nicolachoquet06250/"><img width="50px" height="50px" style="border-radius: 50px" src="./assets/github-personal-profile-pic.jpeg" alt="moi"></a>
