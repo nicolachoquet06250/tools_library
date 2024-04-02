@@ -293,7 +293,9 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		<th>Tutoriel</th>
 	</tr>
 	<tr>
-		<th colspan="2" id="3d-renderer-content">3D Renderer</th>
+		<th colspan="2" id="3d-renderer-content">
+			<a href="#3d-renderer-cat">3D Renderer</a>
+		</th>
 	</tr>
 	<tr>
 		<td>
