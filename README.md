@@ -3715,10 +3715,13 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 ### JavaScript
 - [JavaScript Visualized: Promise Execution](https://www.lydiahallie.com/blog/promise-execution?ref=dailydev)
   - <h4>React</h4>
+  
     - [Les nouveautés **React 19**](https://www.freecodecamp.org/news/new-react-19-features/?ref=dailydev)
   - <h4>Astro</h4>
+  
     - [Les nouveautés Astro de Mars 2024](https://astro.build/blog/whats-new-march-2024/?ref=dailydev)
   - <h4>TypeScript</h4>
+  
     - [Apprendre TypeScript par la pratique](https://www.freecodecamp.org/news/learn-typescript-for-practical-projects)
 
 ## Outils
