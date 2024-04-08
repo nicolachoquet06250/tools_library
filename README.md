@@ -3759,6 +3759,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 
 ### JavaScript
 - [JavaScript Visualized: Promise Execution](https://www.lydiahallie.com/blog/promise-execution?ref=dailydev)
+- [La concurence en JavaScript: Les workers](https://dev.to/olyop/concurrency-in-javascript-and-the-power-of-web-workers-4278?ref=dailydev)
   - <h4>React</h4>
   
     - [Les nouveautés **React 19**](https://www.freecodecamp.org/news/new-react-19-features/?ref=dailydev)
