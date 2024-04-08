@@ -3701,11 +3701,11 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 	<tr>
 		<td colspan="2">
-			<h2>
+			<h3>
 				<a href="#user-content-niveau-2">
 					Niveau 2 - Projets de niveau intermédière
 				</a>
-			</h2>
+			</h3>
 		</td>
   	</tr>
 	<tr>
@@ -3724,7 +3724,8 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 		<td>
 			<strong>
 				<img src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=pin" alt="JavaScript">
-			</strong> | <strong>
+			</strong>
+			<strong>
 				<img src="https://img.shields.io/badge/PHP-000?logo=php&logoColor=pin" alt="PHP">
 			</strong>
 		</td>
