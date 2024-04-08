@@ -17,7 +17,7 @@ Constitution d'une liste d'outils, répos, d'idées d'apps, challanges ou tout a
 | <span id="niveau-2">2</span> | Développeurs à un stade intermédiaire d’apprentissage et d’expérience. Ils sont à l’aise avec l’UI/UX, utilisent des outils de développement et créent des applications qui utilisent les services API. |
 | <span id="niveau-3">3</span> | Développeurs qui possèdent tout ce qui précède et apprennent des techniques plus avancées telles que la mise en œuvre d'applications backend et de services de base de données.                         |
 
-### [Niveau 1 - Projets de niveau débutant](#niveau-1)
+### [Niveau 1 - Projets de niveau débutant](#user-content-niveau-1)
 
 <!-- Non traduit -->
 <!-- [...document.querySelector('.markdown-heading + table:nth-of-type(4) tbody').querySelectorAll('tr')].map(e => `| [${e.querySelector('a').innerText}](${window.location.href}${e.querySelector('a').getAttribute('href')}) | ${e.querySelectorAll('td')[1].innerText} |`).join("\n") -->
@@ -63,7 +63,7 @@ Constitution d'une liste d'outils, répos, d'idées d'apps, challanges ou tout a
 | [Fréquence des mots](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Word-Frequency-App.md)                      | Calculer la fréquence des mots dans un bloc de texte                              |
 | [Application météo](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Weather-App.md)                              | Obtenez la température et les conditions météorologiques d'une ville.             |
 
-### [Niveau 2 - Projets de niveau intermédière](#niveau-2)
+### [Niveau 2 - Projets de niveau intermédière](#user-content-niveau-2)
 
 | Nom de projet                                                                                                                                               | Courte déscription                                                   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
@@ -101,7 +101,7 @@ Constitution d'une liste d'outils, répos, d'idées d'apps, challanges ou tout a
 | [Pratique de frappe](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Typing-Practice-App.md)                                   | Pratique de frappe                                                   |
 | [Application de vote](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Voting-App.md)                                           | Application de vote                                                  |
 
-### [Niveau 3 - Projets de niveau avancé](#niveau-3)
+### [Niveau 3 - Projets de niveau avancé](#user-content-niveau-3)
 
 
 | Nom de projet                                                                                                                                  | Courte déscription                                                                           |
@@ -3692,9 +3692,53 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 	</tr>
 </table>
 
+## Idées de développements hors répos
+
+<table>
+	<tr>
+		<th>Langage de programmation</th>
+		<th>Tutoriel</th>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<h2>
+				<a href="#user-content-niveau-2">
+					Niveau 2 - Projets de niveau intermédière
+				</a>
+			</h2>
+		</td>
+  	</tr>
+	<tr>
+		<td>
+			<strong>
+				<img src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=pin" alt="JavaScript">
+			</strong>
+		</td>
+		<td>
+			<a href="https://www.freecodecamp.org/news/s-expressions-in-javascript/?ref=dailydev">
+				Créez votre propre parseur <strong>Lisp</strong>
+    			</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<strong>
+				<img src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=pin" alt="JavaScript">
+			</strong> | <strong>
+				<img src="https://img.shields.io/badge/PHP-000?logo=php&logoColor=pin" alt="PHP">
+			</strong>
+		</td>
+		<td>
+			<a href="https://betterprogramming.pub/create-your-own-markdown-parser-bffb392a06db">
+				Créez votre propre parseur <strong>Markdown</strong>
+			</a>
+		</td>
+	</tr>
+</table>
+
 ## Challanges
 
-### Types Challange (type-challenges/type-challenges)
+### Types Challenge (type-challenges/type-challenges)
 
 [![Challange typescript types](./assets/screenshot-tsch.png)](https://tsch.js.org/)
 [![Github](https://img.shields.io/badge/GitHub-fff?style=social&logo=github&logoColor=pin)](https://github.com/type-challenges/type-challenges)
