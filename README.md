@@ -3696,7 +3696,7 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
 
 <table>
 	<tr>
-		<th>Langage de programmation</th>
+		<th>Langage</th>
 		<th>Tutoriel</th>
 	</tr>
 	<tr>
