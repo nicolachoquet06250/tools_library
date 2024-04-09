@@ -3770,6 +3770,10 @@ Autres opérations -> Effacer les données (Efface la zone de saisie et les donn
   
     - [Apprendre TypeScript par la pratique](https://www.freecodecamp.org/news/learn-typescript-for-practical-projects)
 
+- GitHub
+  - [Etat de disponibilité des services GitHub](https://www.githubstatus.com/)
+  - [Validateur de GitHub Actions](https://rhysd.github.io/actionlint/)
+
 ## Outils
 
 | Nom de l'outil                                                                 | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
